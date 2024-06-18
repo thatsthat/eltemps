@@ -18,7 +18,7 @@ jobs:
         with:
           crate: htmlq
       - name: do the scraping
-        run: curl "https://www.ccma.cat/el-temps/" | htmlq -p ".M-rmp + *" -a href > link.txt
+        run: curl "https://www.ccma.cat/el-temps/" | htmlq -p ".M-rmp + *" -a href a > link.txt
       - name: commit results
         run: |
           git config user.name "github-actions[bot]"
