@@ -7,6 +7,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Read file content
+        run: |
+          {
+            echo 'FILE_CONTENT<<EOF'
+            cat link.txt
+            echo EOF
+          } >> "$GITHUB_ENV"
       - name: send telegram message on push
         uses: appleboy/telegram-action@master
         with:
