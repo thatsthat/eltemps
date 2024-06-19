@@ -19,4 +19,4 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: ${{ cat link.txt }}
+          message: ${{ env.FILE_CONTENT }}
