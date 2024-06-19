@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Read file content
-        run: cat link.txt >> $Content
+        run: cat link.txt >> "$Content"
       - name: send telegram message on push
         uses: appleboy/telegram-action@master
         with:
