@@ -4,13 +4,11 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
-    env:
-     Content: Ieep
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Read file content
-        run: cat link.txt >> "$Content"
+        run: echo "Content=$(cat link.txt)" >> $GITHUB_ENV
       - name: send telegram message on push
         uses: appleboy/telegram-action@master
         with:
