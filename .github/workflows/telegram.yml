@@ -20,3 +20,10 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: ${{ env.FILE_CONTENT }}
+      - name: send 2nd telegram message on push
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM2_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: ${{ env.FILE_CONTENT }}
+
