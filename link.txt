@@ -1,31 +1,24 @@
-L'onada de calor dels últims dies dona pas a un canvi de temps aquest divendres. L'arribada d'un solc d'aire fred per les capes altes i mitjanes de l'atmosfera afegirà el punt d'inestabilitat necessari per al desenvolupament de xàfecs i tempestes localment fortes. El Servei Meteorològic de Catalunya ha activat l'avís per intensitat de pluja. La tramuntana i el cerç es reforçaran a última hora als dos extrems del país. Protecció Civil ha posat en alerta el pla Inuncat.
+Després de posar punt final a l'onada de calor intensa que ha afectat Catalunya durant els últims dies i que desemboca aquest divendres en un episodi de tempestes fortes, el cap de setmana es presenta amb calor, però molt més suportable que no pas les últimes jornades. L'ambient serà canicular, l'habitual en aquesta època de l'any, però quedaran lluny els valors de fins a 42 o 43 graus registrats en comarques de l'interior.
+
+Dissabte: matí de més sol, tarda amb nuvolades i algun xàfec
+
+El dia començarà amb sol, però amb núvols baixos i alguns bancs de boira matinals en punts de l'interior del país fruit de la mateixa humitat dels ruixats i les tempestes que hi hauran descarregat divendres a la tarda. S'aniran trencant a mesura que avanci el matí i donaran pas a un ambient assolellat. A partir del migdia creixeran nuvolades en punts de muntanya de l'interior i que fins i tot podrien arribar a descarregar algun
+
+xàfec local, sobretot al Pirineu més oriental i l'interior de les comarques de Girona, res a veure pel que fa a intensitat i extensió amb els de divendres a la tarda. Ja de cara al vespre, també podran aparèixer alguns núvols baixos a la meitat nord de la costa, que podran fer la guitza als que aprofiteu les darreres hores del dia per gaudir del sol i la platja.
 
  
 
-#Protecciocivil activem en ALERTA el pla #INUNCAT per la previsió de pluges intenses demà divendres
+Els termòmetres reculen
 
-➡️ Els xàfecs podran anar acompanyats de tempesta, aparat elèctric, fortes ratxes de vent i localment de pedra.
+Les temperatures seguiran la tendència a recular, tant de nit com de dia. Les nits tropicals, per damunt dels 20 graus, quedaran més restringides a la costa i el prelitoral, tot i que encara es pugui fregar aquest valor en algun punt interior. Per tant, també deixem enrere els avisos per calor. Durant les hores centrals del dia, es mouran entre els 30 i els 33 graus, però encara podran arribar als 36-37 a Ponent, l'interior de les Terres de l'Ebre, la Catalunya Central i també cap a l'interior del Camp de Tarragona i del prelitoral sud. Calor de ple estiu, però lluny dels valors extrems. Es mantindrà el vent de mestral fins a migdia al sud del territori i la tramuntana durant gran part de la jornada al sector del cap de Creus. A la costa l'ambient serà xafogós.
 
-tota la informació 👇https://t.co/xflIhZZLIC pic.twitter.com/XXYSwMy6bF
- Protecció civil (@emergenciescat) August 1, 2024
+Comparativa de la temperatura mínima prevista entre divendres i dissabte. Model WRF TVC
 
- 
+Diumenge, temps assolellat i nuvolades de tarda
 
-Tempestes localment fortes
+El temps serà semblant al de la jornada de dissabte, dominat pel sol i tan sols amb boirines matinals interiors i alguns núvols baixos al litoral que s'aniran trencant. A la tarda, creixeran algunes nuvolades al Pirineu i en zones de muntanya de la meitat est del país. Podria caure algun xàfec però, si ho acaba fent, parlaríem de fenòmens locals i poc importants. Les temperatures es mantindran sense canvis destacables, fins i tot podran pujar un parell de graus, tret de la Costa Daurada, on els valors ja hauran augmentat dissabte. Desapareixerà el vent de mestral i de tramuntana i bufarà el de component marítim a la tarda, que mantindrà la sensació de xafogor a la façana litoral.
 
-El canvi de temps es posarà de manifest a partir del migdia. La primera part de divendres estarà marcada pel sol, potser amb algun núvol baix cap al delta de l'Ebre. Serà al final del matí quan comenci a augmentar la nuvolositat a l'interior. A partir del migdia, ja començaran a caure els primers ruixats i algunes tempestes, que poden anar acompanyats de calamarsa, pedra o de fortes ventades.
-
-Els ruixats començaran a les comarques del nord, des del Pirineu i Prepirineu, i s'aniran estenent cap al centre de Catalunya, l'altiplà central, interior de les Terres de l'Ebre, però també esperem que arribin a punts del prelitoral. Previsiblement, els xàfecs es retiraran a partir del vespre pel sector central del litoral. Tot sembla indicar que bona part de la Costa Daurada i la Costa Brava quedaran lliures de precipitació. SI més no, tindran menys possibilitats de veure ploure.
-
-Calor menys extrema
-
-De mica en mica, anirem deixant enrere els valors de temperatura de l'onada de calor, però el dia encara ha començat amb una temperatura força elevada. Els valors de temperatura mínima s'han mantingut per damunt dels 20 graus tant a la costa com a l'interior, i dels 25 a trams de la façana litoral.
-
-Pel que fa a les màximes, esperem un descens de la temperatura a les comarques interiors i uns valors semblants als del dia anterior per la façana litoral. El canvi d'aires es notarà més a partir del vespre. Podem arribar a uns 35-37 ºC en punts del prelitoral central i l'interior del nord-est, a la Catalunya Central, a Ponent i a les Terres de l'Ebre, però ja quedarem lluny dels valors de 40 graus registrats durant les darreres jornades.
-
-I dissabte...
-
-Tindrem una calor més normalitzada, amb un descens notable de la temperatura mínima en molts indrets, i amb una baixada de la màxima, tret de la Costa Daurada, on bufarà mestral reescalfat durant el matí. El temps tendirà cap a l'estabilitat, però no desapareixerà del tot el risc d'algun ruixat de caràcter local en punts de muntanya del nord del país.
+Mapa de temperatura màxima prevista per diumenge. Model WRF TVC
 
  
 
