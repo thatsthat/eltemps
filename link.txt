@@ -1,16 +1,27 @@
-El temps continuarà dominat per l'anticicló l'últim dia de la setmana. De nou, estarem pendents del mestral o cerç i la tramuntana, que encara bufaran amb cops forts al litoral. La tramuntana ho farà durant tot el dia, mentre que el mestral es notarà, sobretot, a l'inici i el final del dia.
+Avui continuarem amb un temps bàsicament anticiclònic, però notarem alguns símptomes de canvi. La borrasca Boris, responsable de la situació d'alerta al centre d'Europa, s'eixamplarà i recularà una mica, i s'aproximarà al Mediterrani occidental. De moment, ens arribarà una mica més d'aire fred en altura.
 
-Cel assolellat
+Núvols alts a la Nou de Berguedà (Vicenç Rovira)
 
-Pel que fa a l'estat del cel, tindrem molt pocs canvis. Serà un dia per aprofitar a l'exterior, perquè farà sol a tot arreu i durant tot el dia. Potser arribaran alguns núvols prims despistats a l'extrem nord, o veiem algun núvol d'evolució a la tarda, però sense més conseqüències.
+Vent de nord
 
-La temperatura es recupera
+El vent serà un aspecte destacat. Bufarà als dos extrems del país, de nord i nord-oest. La tramuntana serà més constant, i més forta al nord del cap de Creus, mentre que el cerç o mestral afluixarà unes hores a la tarda. El vent de nord també deixarà cops forts al Pirineu.
 
-La temperatura de primera hora ha estat semblant o una mica més alta que la de dissabte en general. Ha baixat a l'Empordà, punts de la vall de l'Ebre i de la meitat sud del litoral. En qualsevol cas, l'ambient continua sent de tardor. La màxima pujarà de 2 a 4 ºC, tret de punts del litoral de l'Empordà, on baixarà una mica. Amb ajuda del sol, l'ambient serà molt suau al migdia, fins i tot amb caloreta i amb alguns valors vorejant els 30 ºC en punts de les Terres de l'Ebre, la Costa Daurada i el prelitoral Central.
+ 
 
-I dilluns...
+Vent previst per a dilluns a les 12 UTC(WRF / 3Cat)
 
-Comencem una setmana que pot portar un nou canvi de temps entre dimecres i dijous. Veurem com va evolucionant la situació. De moment, per a dilluns esperem més anticicló, i més vent als dos extrems de Catalunya, també al Pirineu.
+Núvols alts
+
+De cel assolellat del cap de setmana passarem a un cel mig enteranyinat a estones, pel pas de núvols alts que es mouran de nord a sud al llarg del dia. En el cas del vessant nord del Pirineu, la nuvolositat serà més compacta a partir de la tarda. Al final del dia pot plovisquejar de manera molt dispersa en aquest sector.
+
+Temperatura amunt i avall
+
+La temperatura de primera hora ha pujat en general, sobretot en els indrets ventosos, mentre que la màxima baixarà en cotes altes al Pirineu. A la resta de Catalunya, registrarem valors semblants o una mica més alts que els de diumenge. En punts de l'Empordà o la Costa Daurada, el vent reescalfarà la temperatura de manera més notable. Tindrem valors de 29-31 ºC a les Terres de l'Ebre, la Costa Daurada, la Catalunya Central i l'interior de l'Empordà, la Selva o el Pla de l'Estany.
+
+I dimarts...
+
+El vent de nord i nord-oest anirà evolucionant a nord-est i llevant. La temperatura diürna baixarà i augmentarà la inestabilitat. Ara per ara, esperem ruixats per a la segona meitat del dia, que s'iniciarien pel nord-est i anirien a més per la façana litoral durant el tram final de la jornada. Veurem com s'acaba recol·locant la pertorbació.
+
  
 
  
