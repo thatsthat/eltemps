@@ -1,21 +1,24 @@
-Aquest diumenge, la pertorbació que ha anat enviant núvols durant les últimes hores s'allunya de l'oest peninsular, en direcció a Madeira. Catalunya quedarà en una zona de pantà baromètric, el garbí tendirà a desaparèixer, i el temps serà més estable.
+La setmana comença amb un dilluns de transició, molt variable, abans de l'arribada d'una nova pertorbació i pluges a casa nostra. Però també cal destacar la temperatura, que continuarà entre 8 i 9 ºC per sobre de la mitjana climàtica per a aquestes dates. El vent de l'est i sud-est pot deixar algun cop moderat al litoral central i a l'interior de les Terres de l'Ebre.
 
-Més sol
+Cel mig ennuvolat
 
-Avui serà un dia de sol o amb estones de sol a una bona part del país, però amb alguns matisos. D'entrada, veurem alguns bancs de núvols baixos o boires a primera hora en fondalades d'interior. Es poden formar cap a la plana de Vic, la conca de Tremp, punts de la Catalunya Central, Ponent i la vall de l'Ebre. S'aixecaran al llarg del matí.
+Esperem un dia força variable, amb diferents tipus de núvols. A primera hora veurem alguns bancs de boira en zones fondes del prelitoral, per la Catalunya Central, Osona o la vall de l'Ebre, però es trencaran ràpidament.
 
-Per altra banda, el vent feble, de component marítim, aportarà humitat a la façana litoral. Serà en aquest sector arran de mar on es puguin formar núvols baixos. De moment, apareixeran més tard del previst inicialment. Augmentaran a la tarda, i seran més extensos cap al vespre, quan es repartiran per tot el litoral.
+També veurem núvols baixos costaners. Fins a primera hora del matí seran més probables als dos extrems del litoral. Durant les hores centrals del dia es veuran trencats en general, però a partir de la tarda tornaran a augmentar per l'extrem nord-est, i s'acabaran de repartir de manera més extensa per tot el litoral i la vall de l'Ebre cap al vespre.
 
-Per últim, també veurem bandes de núvols alts i mitjos al llarg del dia. En aquest cas, seran més freqüents per la meitat sud de Catalunya.
+Per últim, tindrem bandes de núvols alts i mitjans, més o menys gruixuts a estones, en moviment de sud-oest a nord-est. Seran més freqüents i abundants durant la primera part del dia, i més residuals a la tarda.
 
-Temperatura diürna en ascens
+De tots aquests núvols, no n'esperem precipitacions significatives. Malgrat tot, alguns mapes indiquen la possibilitat d'algun plugim que es pot deixar escapar de manera irregular i molt feble.
+ 
 
-Les temperatures de primera hora han pujat una mica per la costa central i sud, la Catalunya Central i el nord-oest, mentre que han baixat en alguns punts de Ponent, l'interior de les Terres de l'Ebre i el quadrant nord-est.  
+Temperatura cap als 30 ºC
 
-Al migdia, la temperatura pujarà clarament, tret de la costa. Esperem pujades de 4 a 8 ºC al centre i oest de Catalunya, i també en punts del Pirineu. Els valors més elevats arribaran fins al voltant dels 27- 29 ºC per Ponent o a les Terres de l'Ebre, o en punts de la Catalunya Central. Es generalitzaran els valors propers als 25 ºC a la resta.
+Com que durant la matinada ha estat una mica més ennuvolada, la temperatura de primera hora ha pujat respecte a la de diumenge. Per tant, esperem un ambient poc fred. Al migdia, la màxima també pot pujar lleugerament en general, però anirà a la baixa a l'extrem nord-est, si es confirma l'entrada dels núvols baixos. Esperem valors de fins a 28 o 29 ºC per Ponent, i 27-28 ºC per la Catalunya Central i la vall de l'Ebre. No es descarta alguna zona on arribin a uns 30 graus de temperatura màxima. Molts punts de Catalunya estaran entre 23 i 26 ºC.
 
-I dilluns...
+ 
 
-Cel marcat pel pas de bandes extenses de núvols alts i mitjos, i pels núvols baixos a la costa cap al vespre. La temperatura encara pujarà una mica més. En el nivell de referència dels 850 hPa ens situarem uns 8 o 9 ºC per sobre de la mitjana, com es veu en el meteograma de la ciutat de Barcelona.
+I dimarts...
 
-Meteograma de Barcelona(3Cat)
+Arribarà una pertorbació. Pot ploure ja durant el matí al terç sud, però serà sobretot a la tarda quan la pluja es pot estendre a bona part de Catalunya. La temperatura començarà a baixar.
+
+Pluja prevista en 24 hores per a dimarts (WRF / 3Cat)
