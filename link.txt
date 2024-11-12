@@ -1,27 +1,25 @@
-Comença una setmana que pot portar un canvi de temps molt important. D'entrada, un potent anticicló s'anirà situant sobre el Regne Unit. Enviarà vent de nord i nord-oest a Catalunya. Però el més rellevant és que propiciarà una entrada d'aire fred que pot acabar situada sobre la península Ibèrica. Veurem com va evolucionant tot plegat. De moment, el dilluns serà un dia força estable.
+Tenim els ulls posats a l'embossament d'aire fred que de cara aquest dimarts es despenjarà des del centre i el nord d'Europa i creuarà la Península per situar-se ràpidament a la zona de Portugal. Depenent de la seva posició final, podrà fer que tinguem un possible temporal de pluja a partir de dimecres o bé que aquest no s'acabi produint o afecti altres zones. Amb els mapes d'aquest dilluns al matí, es rebaixa la possibilitat d'un possible temporal de pluja. És una situació que s'ha de seguir en cada actualització dels models perquè qualsevol moviment pot implicar un canvi en la previsió.
 
-Tramuntana i mestral
+Més núvols, a banda de les boires, i opcions de pluja a la tarda
 
-El vent de nord bufarà tot el dia a l'Empordà, amb cops forts, mentre que el cerç o mestral bufarà amb més intensitat fins a primera hora del matí i a partir del vespre. Aquesta configuració permetrà un mínim rebuf, amb vents de component est, a la Costa Central. A més a més, la tramuntana anirà remenant la mar a la Costa Brava. El Servei Meteorològic de Catalunya ha activat l'avís per onatge.
+El dimarts començarà ja amb presència de més núvols, a banda de les boires matinals que de nou s'estendran a diversos punts de la Catalunya Central, les comarques de Ponent o en raconades de la vall de l'Ebre a recer del vent. Seran uns núvols que deixaran un cel mig ennuvolat però encara amb poca pluja, més enllà d'algunes tímides i febles precipitacions a la cara nord del Pirineu: l'Aran i extrem nord del Pallars.
 
-Mapa de vent previst per a dilluns a les 12 UTC (WRF / 3CAT)
+Serà a la tarda quan esperem un repunt de la inestabilitat amb xàfecs que podran afectar punts de la costa i el prelitoral central i que avançaran cap al Camp de Tarragona i les Terres de l'Ebre de cara al vespre. Podran ser localment intensos, i per això està activat un avís del Servei Meteorològic de Catalunya. De manera més dispersa pot arribar algun ruixat també a punts del sud de la Depressió Central. A més, la precipitació també anirà a més al sector occidental del Pirineu, amb una cota de neu que anirà baixant fins al voltant dels 1.200 metres de cara a últimes hores del dia.
 
-Sol, boira i núvols al Pirineu
+El vent de tramuntana i mestral continuaran bufant i alterant la situació marítima, en especial a l'entorn dels caps de Creus i de Begur, on les onades superaran els 2 metres i mig d'alçada. Avís també activat per part del Servei Meteorològic de Catalunya en aquest sector del nord de la Costa Brava.
 
-El vent de nord acumularà núvols al vessant nord del Pirineu, on continuarà precipitant de manera intermitent i amb quantitats molt poc abundants. La cota de neu estarà al voltant dels 2.000 metres.
+Nuvolades a Calldetenes (M. Àngels Roviró)
 
-Per altra banda, tornarem a tenir bancs de boira força extensos, que agafaran part de la vall de l'Ebre i la depressió central. S'aniran reduint durant el matí, però localment es poden mantenir en alguns punts de l'oest, cap a la Noguera o la Segarra. També durant el matí veurem alguns núvols alts i mitjans dispersos a la façana oriental.
+Els termòmetres, clarament cap avall
 
-La tarda serà assolellada, amb restes de boires o boires altes per l'oest, i amb alguns núvols d'evolució cap al quadrant nord-est. Al final del dia, notarem l'acostament de l'aire fred, amb un augment de la nuvolositat per l'extrem nord del país.
+Com la cota de neu, la temperatura també anirà davallant durant la jornada, i per això en molts casos la mínima es donarà al final del dia: és a dir, farà més fred poc abans de la mitjanit que no pas a primera hora de dimarts. Els valors mínims només quedaran per damunt dels 10 graus a la façana litoral, entre els 5 i 10 a l'interior, mentre que les glaçades s'estendran a la serralada pirinenca.
 
-La temperatura es resisteix a davallar
+Les màximes més altes amb prou feines fregaran els 17 o 18 graus i quedaran al voltant o per sota dels 15 en la majoria de casos. En aquells indrets on el descens sigui més marcat, la temperatura podrà quedar més de 5 o 7 graus per sota respecte als valors d'aquest dilluns.
 
-Un dia més, esperem unes temperatures amb pocs canvis. Poden baixar lleugerament, tant les mínimes com les màximes. Al migdia, tindrem valors d'uns 22 ºC pel litoral i prelitoral, i d'entre 14 i 19 ºC en molts punts d'interior.
+Comparativa de temperatura dimarts a les 14.00 respecte a dilluns a la mateixa hora (Model WRF / TVC)
 
-I dimarts...
+I dimecres...
 
-La temperatura començarà a davallar, sobretot pel terç nord. Tindrem precipitacions poc abundants al vessant nord del Pirineu, amb vent de nord i nord-oest reforçat. És probable que comenci un canvi de temps amb pluges a les illes Balears, i potser alguns xàfecs s'acostaran a la Costa Daurada.
-
-En tot cas, està tot obert: entra una bossa d'aire fred i, depenent de la seva posició final i de com es configurin les altres condicions atmosfèriques, la pluja arribarà un dia o un altre, amb més o menys abundància i a indrets diferents. Caldrà seguir les actualitzacions dels diferents mapes del temps.
+Cal seguir atents a l'evolució dels darrers mapes, que encara mostren certa incertesa en el pronòstic. Amb els mapes de dilluns al matí, la pluja podria fer acte de presència sobretot a la zona de l'Empordà i a les Terres de l'Ebre, però amb menor abast i abundància que la que indicaven els models diumenge passat, ja que avui dibuixen el centre de baixes pressions situat massa a l'oest per tenir una situació propícia a pluges generals i generoses a casa nostra. Una evolució constant dels mapes que segur que tornaran a fer canviar la ubicació i la distribució de les pluges. També dependrà de la posició final de la depressió l'evolució de la temperatura, que avui tendiria a recuperar-se de manera progressiva.
 
  
