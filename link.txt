@@ -1,25 +1,23 @@
-Tenim els ulls posats a l'embossament d'aire fred que de cara aquest dimarts es despenjarà des del centre i el nord d'Europa i creuarà la Península per situar-se ràpidament a la zona de Portugal. Depenent de la seva posició final, podrà fer que tinguem un possible temporal de pluja a partir de dimecres o bé que aquest no s'acabi produint o afecti altres zones. Amb els mapes d'aquest dilluns al matí, es rebaixa la possibilitat d'un possible temporal de pluja. És una situació que s'ha de seguir en cada actualització dels models perquè qualsevol moviment pot implicar un canvi en la previsió.
-
-Més núvols, a banda de les boires, i opcions de pluja a la tarda
-
-El dimarts començarà ja amb presència de més núvols, a banda de les boires matinals que de nou s'estendran a diversos punts de la Catalunya Central, les comarques de Ponent o en raconades de la vall de l'Ebre a recer del vent. Seran uns núvols que deixaran un cel mig ennuvolat però encara amb poca pluja, més enllà d'algunes tímides i febles precipitacions a la cara nord del Pirineu: l'Aran i extrem nord del Pallars.
-
-Serà a la tarda quan esperem un repunt de la inestabilitat amb xàfecs que podran afectar punts de la costa i el prelitoral central i que avançaran cap al Camp de Tarragona i les Terres de l'Ebre de cara al vespre. Podran ser localment intensos, i per això està activat un avís del Servei Meteorològic de Catalunya. De manera més dispersa pot arribar algun ruixat també a punts del sud de la Depressió Central. A més, la precipitació també anirà a més al sector occidental del Pirineu, amb una cota de neu que anirà baixant fins al voltant dels 1.200 metres de cara a últimes hores del dia.
-
-El vent de tramuntana i mestral continuaran bufant i alterant la situació marítima, en especial a l'entorn dels caps de Creus i de Begur, on les onades superaran els 2 metres i mig d'alçada. Avís també activat per part del Servei Meteorològic de Catalunya en aquest sector del nord de la Costa Brava.
-
-Nuvolades a Calldetenes (M. Àngels Roviró)
-
-Els termòmetres, clarament cap avall
-
-Com la cota de neu, la temperatura també anirà davallant durant la jornada, i per això en molts casos la mínima es donarà al final del dia: és a dir, farà més fred poc abans de la mitjanit que no pas a primera hora de dimarts. Els valors mínims només quedaran per damunt dels 10 graus a la façana litoral, entre els 5 i 10 a l'interior, mentre que les glaçades s'estendran a la serralada pirinenca.
-
-Les màximes més altes amb prou feines fregaran els 17 o 18 graus i quedaran al voltant o per sota dels 15 en la majoria de casos. En aquells indrets on el descens sigui més marcat, la temperatura podrà quedar més de 5 o 7 graus per sota respecte als valors d'aquest dilluns.
-
-Comparativa de temperatura dimarts a les 14.00 respecte a dilluns a la mateixa hora (Model WRF / TVC)
-
-I dimecres...
-
-Cal seguir atents a l'evolució dels darrers mapes, que encara mostren certa incertesa en el pronòstic. Amb els mapes de dilluns al matí, la pluja podria fer acte de presència sobretot a la zona de l'Empordà i a les Terres de l'Ebre, però amb menor abast i abundància que la que indicaven els models diumenge passat, ja que avui dibuixen el centre de baixes pressions situat massa a l'oest per tenir una situació propícia a pluges generals i generoses a casa nostra. Una evolució constant dels mapes que segur que tornaran a fer canviar la ubicació i la distribució de les pluges. També dependrà de la posició final de la depressió l'evolució de la temperatura, que avui tendiria a recuperar-se de manera progressiva.
-
+Ara sí, ja tenim l'embossament d'aire fred o dana a sobre. Amb el pas dels dies la predicció de la seva trajectòria ha anat canviant i, per tant, també el pronòstic del temps va fer un gir respecte als mapes dels caps de setmana. Amb un horitzó temporal menor, sembla que el pronòstic es va perfilant, i sembla que aquest dimecres serà el dia més inestable de la setmana, tot i que, com sempre diem, són situacions en què sempre hi pot haver alguna sorpresa que s'escapi de la modelització. 
  
+
+Paraigua a prop
+
+Serà un dimecres on la pluja farà acte de presència sobretot a la costa i al prelitoral. Serà als dos extrems, és a dir, a la Costa Brava i a les Terres de l'Ebre on aquesta precipitació pot ser més continuada i localment forta. Per aquest motiu està activat un avís del Servei Meteorològic de Catalunya. Al sud de Catalunya les quantitats acumulades podran arribar arribar als 100 mm. Ara bé, de manera dispersa també plourà a la Catalunya Central o fins i tot podrà arribar al pla de Lleida o a punts del Prepirineu. On serà més difícil que plogui serà al nord de les comarques de Ponent o al Pirineu. Potser sí que ho acabarà fent al sector més oriental, amb una cota de neu al voltant dels 1.700 metres, més baixa a primeres hores del dia.
+
+Cel tapat a Vilafant (Víctor Prieto)
+
+Temporal marítim
+
+Haurem d'estar atents a un altre factor, el temporal de mar, que aixecarà onades de més de 2 metres i mig al llarg de tota la costa, i fins i tot podran fregar els 4 metres al nord de la Costa Brava, a l'entorn del cap de Creus. Una mar remenada que anirà acompanyada també de ratxes fortes de vent a primera línia de mar o també a les zones elevades de la serralada litoral i prelitoral.
+ 
+
+Ambient hivernal a primera hora
+
+La temperatura que tindrem al començar el dimecres serà freda, hivernal fins i tot en molts casos, i per tant ens haurem d'abrigar. Un contrast que notarem més perquè veníem d'unes jornades d'ambient atípicament suau per a les dates. Així doncs, els termòmetres es mouran entre els 5 i 10 graus a gran part de l'interior, per sota d'aquesta xifra al Pirineu i a l'alta muntanya, i només lleugerament per sobre dels 10 a primera línia de mar. Al migdia, la temperatura es voldrà recuperar, tret dels llocs on el cel es mantingui més tapat i hi pugui anar plovent, però el termòmetre es resistirà a arribar als 20 graus allà on més s'enfili.
+
+Temperatura prevista per a dimecres a primera hora (Model WRF / TVC)
+
+I dijous...
+
+El temps tendirà a estabilitzar-se i la temperatura a recuperar-se. Ambient assolellat en molts casos, amb restes de núvols i algun ruixat que aniran marxant per les Terres de l'Ebre al matí i algunes nuvolades de tarda, sobretot en punts del nord-est del país. El mar, tot i que continuarà picat, anirà perdent pistonada.
