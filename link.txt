@@ -1,17 +1,25 @@
+El primer front de l'hivern meteorològic no serà gaire actiu. Portarà núvols, però la precipitació es concentrarà a l'extrem nord del país. Caldrà esperar noves oportunitats per veure una bona nevada.
+
+Augment de la nuvolositat
+
+Al marge del front, un dia més parlarem de bancs de boira, que seran extensos per Ponent i la vall de l'Ebre durant la matinada. Durant el matí, començarà a entrar una mica de cerç per la vall de l'Ebre, i això ajudarà a aixecar la boira en aquest sector. En paral·lel, arribaran cada cop més núvols alts i mitjans des de l'oest i s'anirà ennuvolant arreu. A partir de mig matí, pot ploure una mica al vessant sud de l'Alt Pirineu.
+
+La segona part del dia serà de retirada progressiva del front per la façana costanera. S'obriran clarianes per l'oest, tot i que la boira pot persistir un dia més per Ponent. No plourà a la majoria de comarques de Catalunya, fora del Pirineu. En canvi, al vessant nord de la serralada es reactivarà la precipitació, sobretot a l'oest. La cota de neu baixarà dels 2.200 als 1.600 metres. En tot cas, les quantitats de precipitació seran poc abundants.
+
+A partir del vespre, el cerç o mestral i la tramuntana s'acceleraran als dos extrems del país.
+
+Vent previst per a dilluns a les 21 UTC(WRF /3Cat)
+
+Poc fred
+
+La temperatura de primera hora serà més alta que la de diumenge en general, tret del Pirineu i de la costa, on serà molt semblant o una mica més baixa. Al migdia, l'ambient refrescarà al Pirineu, mentre que les màximes pujaran 2 o 3 ºC en punts del litoral central i sud. En aquest sector podrem tenir encara alguns valors de 20 o 21 ºC. També pujaran les màximes en alguns indrets interiors on la boira s'aixecarà.
+
  
 
-Continuarem a l'espera de canvis rellevants en la situació meteorològica. De moment, el temps continuarà marcat pel sol i els bancs de boira i núvols baixos, que aniran en augment.
+ 
 
-Núvols baixos i boira
+I dimarts...
 
-El matí dominical estarà força ennuvolat o emboirat en una gran part del país. El sol serà patrimoni gairebé exclusiu del Pirineu i del Prepirineu, amb l'excepció d'alguns bancs de boira a les valls. Precisament, la boira també serà protagonista al llarg de la Depressió Central i en punts de la vall de l'Ebre, amb núvols baixos que es repartiran per tota la façana litoral i prelitoral, tot i que es veuran molt més dispersos a la Costa Brava. El sol anirà fent feina per aixecar o desfer part d'aquests núvols baixos i boires, de manera que a les hores centrals del dia es trencaran.
+Un cop passi el front, notarem la davallada de la temperatura, tant a primera hora com al migdia, de la mà dels vents de component nord. Tindrem núvols residuals al quadrant nord-est, amb possibilitat d'alguns ruixats dispersos al llarg del dia.
 
-La tarda es presentarà assolellada o amb restes de núvols baixos, més presents a la meitat sud del litoral i prelitoral. La boira serà persistent cap a Ponent. De cara al vespre, els núvols baixos tornaran a establir-se amb més extensió per bona part de l'interior. Al mateix temps, entraran núvols alts i mitjans pel nord-oest, indicatius de la proximitat d'un front associat a la gran borrasca atlàntica.
-
-Temperatura amb pocs canvis
-
-L'augment de la nuvolositat de la matinada frenarà la caiguda de la temperatura a primera hora a la façana litoral i al prelitoral sud. En canvi, les mínimes baixaran per bona part del terç nord del país. Les temperatures diürnes seran molt semblants a les de dissabte, grau amunt, grau avall. Els valors més alts rondaran els 19 per les Terres de l'Ebre, i els 17-18 ºC en molts punts de la costa i del prelitoral. Per l'interior, valors d'entre 13 i 17 ºC, amb alguns punts molt condicionats per la boira, on quedaran per sota.
-
-I dilluns...
-
-Com a novetat, la cua d'un front relliscarà per Catalunya, i portarà una mica de precipitació al Pirineu entre la tarda i el vespre. La cota de neu baixarà dels 2.200 als 1.600 metres al vessant nord del Pirineu.
+Diferència de temperatura a les 14 UTC entre dilluns i dimarts (WRF /3Cat)
