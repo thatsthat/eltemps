@@ -1,25 +1,21 @@
-El primer front de l'hivern meteorològic no serà gaire actiu. Portarà núvols, però la precipitació es concentrarà a l'extrem nord del país. Caldrà esperar noves oportunitats per veure una bona nevada.
+Després del pas del front d'aquest dilluns, el dimarts es presenta com una jornada de temps variable, amb vent de tramuntana i mestral que farà refrescar l'ambient i amb alguns ruixats al nord-est del país. Les boires de Ponent podrien arribar a trencar-se, amb una atmosfera més revolucionada. El potent anticicló de les Açores barra el pas fins a cert punt a les pertorbacions atlàntiques, però això no impedeix que algunes cues de front s'escolin i arribin a fregar el Pirineu.
 
-Augment de la nuvolositat
+Temps variable, amb alguns ruixats locals
 
-Al marge del front, un dia més parlarem de bancs de boira, que seran extensos per Ponent i la vall de l'Ebre durant la matinada. Durant el matí, començarà a entrar una mica de cerç per la vall de l'Ebre, i això ajudarà a aixecar la boira en aquest sector. En paral·lel, arribaran cada cop més núvols alts i mitjans des de l'oest i s'anirà ennuvolant arreu. A partir de mig matí, pot ploure una mica al vessant sud de l'Alt Pirineu.
+El cel estarà variable durant tot el dia, amb diferents tipus de núvols segons l'indret del país on ens trobem. D'una banda, cel tapat a les comarques del nord-est: al litoral i prelitoral d'entre Barcelona i Girona. Precisament és en aquest sector, sobretot entre el Maresme i el Baix Empordà, on ja de matinada hi han caigut alguns ruixats dispersos. Hi podrà continuar plovent de manera dispersa durant tot el dia. Fins i tot, amb un avís activat del Servei Meteorològic de Catalunya per intensitat de pluja. El cel també estarà molt ennuvolat al vessant nord del Pirineu, però ja no s'hi espera precipitació després d'algunes tímides nevades a cotes altes.
 
-La segona part del dia serà de retirada progressiva del front per la façana costanera. S'obriran clarianes per l'oest, tot i que la boira pot persistir un dia més per Ponent. No plourà a la majoria de comarques de Catalunya, fora del Pirineu. En canvi, al vessant nord de la serralada es reactivarà la precipitació, sobretot a l'oest. La cota de neu baixarà dels 2.200 als 1.600 metres. En tot cas, les quantitats de precipitació seran poc abundants.
+Nuvolades a Blanes (Àfrica Palma)
 
-A partir del vespre, el cerç o mestral i la tramuntana s'acceleraran als dos extrems del país.
-
-Vent previst per a dilluns a les 21 UTC(WRF /3Cat)
-
-Poc fred
-
-La temperatura de primera hora serà més alta que la de diumenge en general, tret del Pirineu i de la costa, on serà molt semblant o una mica més baixa. Al migdia, l'ambient refrescarà al Pirineu, mentre que les màximes pujaran 2 o 3 ºC en punts del litoral central i sud. En aquest sector podrem tenir encara alguns valors de 20 o 21 ºC. També pujaran les màximes en alguns indrets interiors on la boira s'aixecarà.
-
+A la resta tindrem més estones de sol, però que quedarà esmorteït pel pas de núvols alts al matí i de mitjans també a la tarda que seran una mica més espessos. Per últim, la boira tornarà a fer acte de presència des de la matinada, potser en una menor extensió a causa del vent, a l'àrea del pla de Lleida i de l'altiplà Central, i en alguns altres indrets de la Catalunya Central. Haurem de veure si finalment aquest dimarts s'acaba trencant del tot o no, o si bé només queda reduïda la seva àrea d'extensió.
  
 
+Refrescada general, amb tramuntana i mestral
+
+La tramuntana i el mestral continuaran bufant als dos extrems del país: a l'Empordà i a les Terres de l'Ebre, moderats amb algunes ratxes fortes. Precisament aquest vent del nord postfrontal serà el que farà baixar la temperatura de manera contundent aquest dimarts, tant a primera hora del dia com al centre de la jornada, en general.
+
+Així doncs, tornaran les glaçades al Pirineu, sobretot a l'alta muntanya, on tindrem valors negatius durant tota la jornada. A la resta els valors mínims es mouran entre els 5 i els 12 graus a primera hora. Al migdia, ja no s'assoliran els 20 ºC enlloc, amb màximes entre els 13 i els 18 en la majoria de casos, més baixes al Pirineu i en zones on encara la boira pugui fer el ronso.
  
 
-I dimarts...
+I dimecres...
 
-Un cop passi el front, notarem la davallada de la temperatura, tant a primera hora com al migdia, de la mà dels vents de component nord. Tindrem núvols residuals al quadrant nord-est, amb possibilitat d'alguns ruixats dispersos al llarg del dia.
-
-Diferència de temperatura a les 14 UTC entre dilluns i dimarts (WRF /3Cat)
+Durant el matí haurem d'esperar restes de núvols amb alguns ruixats a la costa i també alguna nevada feble i intermitent a la cara nord del Pirineu durant el dia. A la tarda, el cel tendirà a aclarir-se, en general. El vent de tramuntana i de mestral es mantindrà als dos extrems del país i també bufarà a les cotes altes del Pirineu. Sembla que totes les boires matinals s'acabaran trencant i que la temperatura encara podrà recular un pèl més en alguns casos.
