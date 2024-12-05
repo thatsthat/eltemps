@@ -1,20 +1,25 @@
-Una nova cua de front ens creuarà entre la nit de dimarts i les primeres hores de dimecres i comportarà alguns xàfecs a la costa i al prelitoral central i també alguna tímida nevada a la cara nord del Pirineu. Serà un canvi efímer i poc important del temps, perquè de cara a la tarda d'aquest mateix dimecres paralarem d'un temps molt més tranquil.
+La situació meteorològica es manté, de moment, sense canvis importants, almenys fins dissabte. A partir d'aleshores sembla que es va perfilant el canvi de temps previst de cara a la segona part del pont de la Puríssima, que ens portarà l'arribada de l'ambient hivernal i de la neu al Pirineu de la mà d'una massa d'aire fred polar a casa nostra. Amb els mapes d'avui parlaríem d'un descens brusc, precedit per una pujada transitòria dels termòmetres divendres.
 
-Matí amb restes d'inestabilitat, tarda de més sol
+Cel mig ennuvolat, però amb estones de sol o ressol
 
-Entre aquest dimarts al vespre i dimecres al matí, hem d'esperar alguns ruixats localments intensos a la costa i al prelitoral central, que aniran marxant a primera hora cap a mar endins. Al vessant nord del Pirineu, entre l'Aran i el nord del Pallars, hi pot anar plovent, o més aviat nevant, fins a mig matí de manera feble i intermitent, amb una cota de neu que baixarà fins al voltant dels 1.200 metres. 
+De moment aquest dijous al matí vindrà marcat per un cel enteranyinat pel pas de núvols alts i prims, sense més conseqüències, i també se'n podran formar alguns de baixos a trams del litoral. Serà una nuvolositat que s'anirà trencant i perdent entitat amb el pas de les hores i que donarà lloc a una segona part del dia amb menys núvols.
 
-A la resta començarem el dia també amb un cel mig ennuovlat i alguna boira, més puntual que els extensos bancs del últims dies, però no s'espera pluja. El cel s'anirà obrint amb el pas de les hores i donarà pas a una tarda de sol amb només restes de núvols al nord i nord-est i... sembla que sense boira persistent! 
+Això sí, al vessant nord del Pirineu, entre l'Aran i el Pallars serà més aviat a l'inrevés: el cel anirà quedant cada vegada més tapat. De fet, durant la tarda no seria impossible que hi arribessin a caure quatre gotes, o quatre flocs de neu per damunt dels 2.200 metres. Una precipitació que aniria a més de cara a la matinada de divendres.
 
-Banc de boira a Alfarràs (Josep Maria Torrelles)
+Paisatge de boira a Cervera (Marc Llorens)
 
-Temperatura amb pocs canvis i es manté el vent als extrems
+Fresca matinal, més suavitat al migdia
 
-La temperatura de primera hora serà un parell de graus més baixa en alguns casos, un descens més marcat al nord-est, on aquest dimarts el cel tapat ha impedit el refredament nocturn. De dia pocs canvis, o fins i tot el termòmetre pot guanyar un o dos graus en alguns sectors, amb més estones de sol. 
+A primera hora, els valors pujaran clarament a muntanya, tot i que podran recular una mica, amb menys núvols, a zones interiors i a valls i fondalades, on pot tornar alguna glaçada. Les màximes es mantindran, en general, amb pocs canvis, de nou amb un ascens més important al Pirineu.
 
-Els valors a primera hora seran frescos, per sota dels 10 graus pràcticament arreu del país, per sota dels 5 a zones interiors i amb glaçades al Pirineu i en altres raconades a recer del vent. Al migdia, els valors més alts arribaran als 17 o 18 graus a la Costa Daurada i de l'Ebre i es mouran entre els 12 i els 16 en conjunt. El vent de tramuntana i mestral es mantindrà bufant moderat, amb algunes ratxes fortes al nord del cap de Creus. Les ventades de nord també es deixaran sentir a les cotes altes del Pirineu.
- 
+Per tant, els valors mínims baixaran per sota dels 5 graus a diversos indrets de l'interior i només quedaran lleugerament per sobre dels 10 °C a punts de la façana costanera. Al migdia, difícilment arribarem als 20 graus, a tot estirar, en alguns sectors de l'Ebre. En general, ens mourem entre els 11 i 16 °C de màxima.
 
-I dijous...
+La tramuntana i el mestral es mantindran bufant a les Terres de l'Ebre i a l'Empordà, però amb tendència a anar afluixant i perdent pistonada amb el pas de les hores, sense acabar de desaparèixer.
 
-Hem d'esperar un cel mig ennuvolat, amb alguna gotellada a la cara nord del Pirineu, i una recuperació del termòmetre que es notarà especialment a muntanya i al terç nord del país. El vent de tramuntana i mestral anirà perdent pistonada i afluixarà durant la segona meitat del dia.
+I els propers dies...
+
+La matinada de divendres acabarà de creuar un front poc important, amb algunes nevades febles a les cotes altes del vessant nord del Pirineu i un nou augment dels núvols, tot i que sense pluja, a la resta. Això sí, la temperatura serà notablement més alta. En canvi, de cara a dissabte i sobretot diumenge la temperatura baixarà d'una manera clara i contundent i entrarem de ple a l'ambient hivernal.
+
+Sembla que pot arribar la neu al Pirineu i probablement ens plantarem davant la setmana més freda del que portem d'aquesta temporada. A la següent animació s'observa l'evolució de la temperatura a 850 hPa, uns 1.500 metres damunt la nostra vertical. Després de l'ascens de divendres, que porta a valors d'uns 10 °C a aquesta alçada, arriben els colors blaus, associats a valors negatius i que se situaran uns 5 o 6 graus per sota la mitjana de l'època. És un pronòstic que haurem d'anar veient en properes actualitzacions dels mapes.
+
+Evolució de la temperatura a 850 hPa (1.500 m). Model WRF / TVC
