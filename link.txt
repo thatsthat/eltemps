@@ -1,19 +1,39 @@
-A poc a poc, el tenaç anticicló d'hivern que ens ha acompanyat durant tota la setmana té els dies comptats i ja comença a donar símptomes de feblesa. Arriba un sistema frontal, no gaire actiu, que ens durà núvols i molt poca precipitació.
+Durant aquest cap de setmana llarg, el temps acabarà de canviar del tot. L'anticicló que ens havia governat fins ara es retira, i quedarem sota la zona d'influència d'una gran pertorbació atlàntica, que anirà avançant des de les illes Britàniques fins a la península escandinava. La borrasca no ha de portar grans precipitacions a casa nostra, però sí que suposa un canvi de tendència.
 
-Núvols alts i mitjans des de la Garriga / Marc Solé
+Posta de sol des d'Ullà(Rafel Rostey)
 
-De les boires als núvols
+Dissabte variable i amb menys fred
 
-El matí es llevarà amb boires a les planes interiors. Un altre cop, la gebrada serà intensa al pla de Lleida. A diferència dels darrers dies, les boires s'aixecaran, es trencaran i es dissiparan de la vall de l'Ebre i del sud del pla de Lleida. En aquestes zones tornaran a veure el sol després de cinc dies consecutius de boires persistents. A la resta del país el matí serà variable, tret del Pirineu on el cel estarà una mica més tapat.
+El dissabte es caracteritzarà per un cel canviant, però de precipitacions només n'esperem de matinada i a l'extrem nord del Pirineu. La resta del dia serà de pas de núvols alts i mitjans, més abundants durant el matí i, de nou, a partir del vespre.
 
-A partir del migdia arriba el sistema frontal, amb poca energia, però suficient per deixar una tarda de cel variable arreu i més cobert al Pirineu i Prepirineu. Només s'esperen algunes febles precipitacions a l'Aran i a la cara nord del Pirineu, en forma de neu per sobre dels 2.000 metres.
+A banda d'aquests núvols inofensius, que garantiran una sortida i una posta de sol ben acolorides, també tindrem bancs de boira. Els esperem a l'oest de la Depressió Central, més ubicats cap a la Noguera, la Segarra o el Solsonès, on poden ser localment persistents.
 
-Temperatures més altes
+De la mà de vents del sud i sud-oest, la temperatura anirà cap amunt. Pujaran les mínimes i les màximes, en alguns casos fins a 3 o 4 ºC. Alguns valors s'enfilaran cap als 17 o 18 ºC per les Terres de l'Ebre, i fins als 16 o 17 ºC en altres punts de la costa i el prelitoral. Molts punts del país voltaran els 13 o 15 ºC.
 
-El vent de mestral que bufarà lleuger o moderat al sud del país permetrà que es remogui una mica l'aire i el fred no s'estanqui tant a les fondalades. Això farà que les mínimes puguin a bona part del país. Per una altra banda, al sud del pla de Lleida pujaran clarament les temperatures per la ruptura de les boires persistents dels darrers dies amb valors que superaran els 5 graus. Les temperatures més altres del dia rondaran els 15 o 16 ºC al litoral.
+Diumenge arriba un front cap al tard 
 
-I el cap de setmana...
+Diumenge, la pertorbació atlàntica estarà més a prop de Catalunya, i ens enviarà el primer front amb cara i ulls. A hores d'ara, tot indica que arribarà ben de la mà dels Reis, a última hora del dia, per l'extrem nord-oest.
 
-El primer cap de setmana de l'any serà prou estable amb un dissabte de cel variable, amb boires no tan persistents al pla de Lleida i un diumenge, amb canvi de temps a partir de la tarda. Un sistema frontal actiu arribarà diumenge a darrera hora del dia que ens durà pluges de cara a Reis a la meitat oest del país. En tot cas, caldrà seguir les noves actualitzacions del temps per verificar el canvi de temps.
+Cel ennuvolat a l'Escala (Marta Parés)
 
- 
+Precipitacions pel nord-oest a partir del vespre
+
+Una gran part del dia estarà marcat pel pas de núvols alts i mitjans, que s'afegiran als bancs de boira matinals, que encara resistiran cap a l'oest de la Depressió Central. Fins i tot, encara seran persistents cap al nord de Ponent. També són probables alguns bancs de núvols baixos en punts del prelitoral i del nord-est.
+
+Previsiblement, cap a les vuit del vespre arribarien les primeres precipitacions per l'extrem oest de Catalunya. Si esteu de cavalcada, porteu el paraigua per si de cas, tot i que esperem pluges tímides en general. Cap al vessant sud de l'Alt Pirineu és on tindrem alguns registres una mica més abundants. La cota de neu se situarà cap als 1.800 metres.
+
+Pel que fa a la temperatura, amb el domini dels vents de l'oest i sud-oest, es mantindran o pujaran una mica més en general. El vent del sud-oest s'intensificarà pel litoral nord a partir de la tarda, i això dispararà la temperatura cap a l'extrem nord-est, on esperem màximes de fins a 19 ºC. Arribaran cap als 17 o 18 ºC al litoral i prelitoral Central, i als 13-16 ºC en general.
+
+Els Reis porten una mica de pluja
+
+Dilluns, el dia de Reis, acabarà de passar el front fred associat a la pertorbació atlàntica, i n'arribarà un altre. No tindrem un gran episodi de pluja, però sí que haurem d'estar pendents de la pluja i de la neu, amb una cota de neu que anirà baixant des dels 1.500 fins als 1.000 metres. Al final del dia, s'intensificaran el cerç, el mestral i la tramuntana als dos extrems del país.
+
+Campdevànol(Joel Bares)
+
+Pluja amb pauses
+
+Serà un dia de cel força ennuvolat en general, amb algunes clarianes transitòries. El primer front acabarà passant de matinada, però, fora del terç oest, arribarà desgastat, i no esperem més que algun plugim dispers. Durant el matí, quedarà una mica de precipitació cap al vessant sud del Pirineu. Si heu de fer la típica ronda per anar a buscar regals, el matí és el moment més adient.
+
+A la tarda, arribarà una segona tongada de precipitació. Aquesta vegada serà més activa, i apunta a dos sectors: el quadrant nord-oest, amb precipitacions més abundants al Pirineu, i a la costa i al prelitoral. Cap al vespre, la pluja es concentrarà al nord i nord-est, mentre que a la resta encara podem tenir alguns xàfecs, però més dispersos i menys abundants.
+
+Precipitació prevista per al dia de Reis (WRF/3Cat)
