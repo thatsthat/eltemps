@@ -1,23 +1,22 @@
-Dimarts seguirem amb un temps marcat per la circulació de pertorbacions atlàntiques, amb poques repercussions a Catalunya en forma de precipitacions. Es notarà més l'efecte de les baixes pressions en el flux de vent.
-
-Cel variable
-
-El dia encara començarà amb la ressaca de Reis, amb alguns xàfecs dispersos de matinada pel nord-est, però el matí serà assolellat en general, amb restes de núvols al Pirineu i al nord-est i alguns bancs de boira a la Depressió Central que s'haurien de desfer al llarg del matí.
-
-A partir de la tarda veurem més núvols alts i mitjans en trànsit i, a partir de mitja tarda, una mica de precipitació al Pirineu occidental. La cota de neu anirà pujant cap als 1.900 metres.
-
-Cel enterbolit a la Vall de Boí (Víctor Fernández)
-
-Tramuntana i mestral
-
-El cerç o mestral marcaran el matí a les Terres de l'Ebre i al Camp de Tarragona, amb cops puntualment molt forts. També la tramuntana al sector de l'Empordà. Tots dos aniran afluixant al llarg del dia. Durant les hores centrals de la jornada, s'intensificarà el vent de ponent a la costa i el prelitoral central, i cap al vespre, el vent de sud als cims del Pirineu.
-
-Temperatura en descens
-
-La temperatura de primera hora serà clarament més baixa, sobretot a l'oest de Catalunya. Les glaçades recuperaran terreny, també fora del Pirineu, després d'unes matinades no gaire fredes. Les màximes també quedaran més curtes en conjunt, amb una baixada més notable, de 3 o 4 ºC, en punts del nord-est. Els valors més alts arribaran als 15 o 16 ºC per la meitat sud del litoral, puntualment als 17 ºC a les Terres de l'Ebre. En general, ens mourem entre 10 i 14 ºC.
-
-I dimecres...
-
-La temperatura tornarà a remuntar, fins a situar-se als 20 ºC al nord-est, amb vents de ponent reescalfats. Tot indica que, a partir de la tarda, arribarà un nou front atlàntic poc actiu. Cap al vespre, entraria precipitació per l'Aran i l'Alt Pirineu, amb una cota de neu d'uns 1.800 metres.
-
+Continuem immersos en una situació meteorològica atlàntica, amb fronts que es van apropant des de l'oest, però que es van desgastant al mateix temps, de manera que quan arriben a Catalunya s'acaben convertint en un batibull de núvols, algunes ventades i algunes precipitacions ben febles. Sembla que continuarem així el que queda de setmana, potser amb un front una mica més actiu de cara a dissabte.
  
+
+Cel mig enteranyinat
+
+Aquest dimecres començarà amb poques boires i amb el domini dels núvols prims, que a estones podran deixar el cel una mica més enterbolit. Serà durant la tarda, sobretot durant la segona meitat, quan la nuvolositat es farà més compacta des de les comarques de Ponent i avançant cap a l'est.
+
+Al vespre, arribaran algunes precipitacions febles, o a tot estirar moderades, entre l'Aran, l'Alta Ribagorça i els Pallars, amb una cota de neu que se situaria entorn dels 1.800 metres, baixant cap als 1.600 metres al final del dia. No es descarta que també acabi arribant algun plugim o quatre gotes mal comptades a la resta de les comarques de Ponent.
+
+Cel mig ennuvolat a Llívia (David Tuset)
+
+La temperatura es recupera, amb vent reescalfat
+
+A primera hora, els valors de temperatura pujaran entre 2 i 4 graus respecte a aquest dimarts, una pujada que serà més acusada al Pirineu, sobretot a l'alta muntanya. Així doncs, les glaçades tornaran a quedar retallades d'extensió.  
+
+Durant el dia, es reforçarà el vent de ponent al centre i el sud de Catalunya i també el de garbí a la meitat nord del litoral, que arribarà reescalfat a les comarques de Girona. Això farà que en alguns casos es dispari el termòmetre i que l'ambient sigui molt agradable al migdia, amb màximes que podran arribar fins als 20 graus. A la resta, les temperatures també pujaran entre 3 i 4 graus i arribarem fins als 18 o 19 ºC en molts punts de la costa i el prelitoral. Els valors també podran passar dels 15 graus en comarques interiors.
+
+Temperatura prevista dimecres a les 15 UTC (Model WRF / TVC)
+
+I dijous...
+
+El sol serà el predominant, amb el permís d'algunes boires al matí a la Depressió Central que no sembla que hagin de ser persistents i també núvols que arribaran durant la tarda al nord-oest, on deixaran un cel una mica més ennuvolat, en especial a l'Alt Pirineu. No serien impossibles de cara al vespre, però sí poc probables, quatre gotes o flocs de neu per damunt dels 1.800 metres en aquest sector.
