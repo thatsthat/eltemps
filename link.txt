@@ -1,35 +1,24 @@
-El temps del cap de setmana estarà marcat pel pas de núvols associats a grans i profundes borrasques atlàntiques, situades lluny de Catalunya. Aquests fronts atlàntics són poc actius a casa nostra, però portaran núvols i daltabaixos de la temperatura.
+Una segona gran borrasca s'aproximarà a l'oest d'Irlanda i portarà associada una cadena frontal. Tindrem unes hores de treva, però entre la tarda de diumenge i dilluns passarà un nou sistema frontal, altra vegada poc actiu a casa nostra. En canvi, la pertorbació serà de gran impacte a l'oest de França i Espanya, i també a Portugal. Per això, se li ha posat un nom: Herminia.
+ 
 
-Dissabte, precipitació per l'oest
+Més vent
 
-El dia començarà amb alguns bancs de boira o núvols baixos al llarg del litoral i en alguns punts de l'interior, a la depressió central i a la vall de l'Ebre. El sol que lluirà a la resta s'anirà enteranyinant primer, i tapant després, per l'arribada de nuvolositat associada a un front. Entre el migdia i primera hora de la tarda arribaran les primeres precipitacions per l'extrem oest, molt minses en general i una mica més abundants al vessant sud del Pirineu occidental.
+Serà el primer efecte de l'Herminia. Bufarà del sud i oest i s'intensificarà als cims del Pirineu i, durant la segona part del dia, al litoral i prelitoral central i al nord-est. El servei Meteorològic de Catalunya ha activat l'avís per vent.  
 
-Cap al vespre ja s'obriran moltes clarianes per l'oest, mentre el front es retira pel nord-est, a tot estirar amb algun xàfec dispers, igual que passarà al Pirineu. La cota de neu baixarà des d'uns 2.000 metres fins a uns 1.500 metres al final del dia.
-
-Menys contrast de temperatura
-
-El vent dominant serà de ponent i sud-oest, i bufarà amb alguns cops forts a partir del migdia al litoral i prelitoral central i a la Costa Brava. Serà al vespre quan s'intensificarà la tramuntana al Cap de Creus i el mestral al Camp de Tarragona.
-
-La temperatura de primera hora pot baixar una mica més en punts de les Terres de l'Ebre i del Camp de Tarragona, mentre que pujarà lleugerament a la resta. L'ascens es notarà més al quadrant nord-est, amb pujades de 2 a 4 o 5 ºC.
-
-La temperatura màxima serà similar o lleugerament més baixa, si bé al nord-est podrà pujar lleugerament. Els valors màxims més elevats podran superar els 20 ºC a punts del litoral i prelitoral. La temperatura mínima al Pirineu es donarà al final del dia.
-
-Diumenge, del sol als núvols
-
-Una segona gran borrasca s'aproximarà a l'oest d'Irlanda i portarà associada una cadena frontal. De moment, ens afectarà un front càlid, però de manera molt restringida al nord-oest. En canvi, serà una borrasca de gran impacte a l'oest de França i Espanya, i també a Portugal. Per això, se li ha posat un nom: Herminia.
+Cops de vent previstos per a diumenge a les 15 UTC(WRF / 3Cat)
 
 Augment de la nuvolositat
 
-A primera hora dominaran les clarianes, amb permís dels núvols baixos al litoral central, el nord-est i l'est de la Catalunya Central. Amb el pas de les hores, aniran arribant núvols alts i mitjans des de l'oest. El cel es taparà més a partir de la tarda i per la meitat oest de Catalunya. És probable que arribin les primeres precipitacions minses al vessant sud de l'Aran i l'Alt Pirineu. Serà a partir del vespre quan les pluges vagin a més pel quadrant nord-oest. La cota de neu se situarà sobre uns 1.700 metres.
+A primera hora dominaran les clarianes, amb permís d'alguns núvols baixos al litoral nord-est, a l'oest de la depressió central o al prelitoral sud. Amb el pas de les hores, aniran arribant núvols alts i mitjans des de l'oest.
 
-També cal destacar el vent, que s'intensificarà als cims del Pirineu i, durant la segona part del dia, al litoral i prelitoral central i al nord-est.
+El cel es taparà més a partir de la tarda i per la meitat oest de Catalunya. És probable que arribin les primeres precipitacions minses al vessant sud de l'Aran i l'Alt Pirineu. Serà més enllà del vespre quan les pluges vagin a més per l'oest del país, amb registres una mica més destacats al vessant sud del Pirineu occidental. La cota de neu voltarà els 2.000 metres en general, tot i que al vessant sud del Pirineu i Prepirineu estarà al voltant dels 1.600 metres.
 
 Més fred matinal
 
-La matinada de cel serè i força encalmada portarà un descens marcat de la temperatura mínima, sobretot a l'interior de la meitat nord. Pel que fa a la temperatura màxima, també anirà a la baixa al Pirineu i al llarg de la façana litoral. A la resta serà molt semblant a la de dissabte. Esperem valors més alts cap a l'Empordà, amb 17 o 18 ºC, i registres de 15 o 16 ºC pel litoral i prelitoral central o en punts de les Terres de l'Ebre. Estarem entre 11 i 14 ºC en una gran part del país.
+La matinada de cel serè i força encalmada portarà un descens marcat de la temperatura mínima a l'interior de la meitat nord. Pel que fa a la temperatura màxima, també anirà a la baixa al Pirineu i al llarg de la façana litoral. A la resta serà molt semblant a la de dissabte. Esperem valors més alts cap a l'Empordà i el litoral i prelitoral central, amb 17 o 18 ºC. Esperem valors de 15 o 16 ºC pel litoral sud. Tindrem entre 11 i 14 ºC a una gran part del país.
 
- 
+I dilluns...
 
- 
+Acabarà de passar el primer sistema frontal i, cap al final del dia, n'arribarà un altre. Per tant, serà un dia amb pas constant de núvols i estones de pluja transitòria i poc abundant en general. La temperatura mínima pujarà de manera molt clara, i la màxima també ho farà, sobretot cap a les Terres de l'Ebre. Seguirem pendents del vent.
 
- 
+Evolució de la Tº prevista per a dilluns a les 6 UTC(WRF / 3Cat)
