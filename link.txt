@@ -1,26 +1,29 @@
-La gran borrasca Herminia portarà un dilluns ennuvolat i amb una mica de pluja a Catalunya. El vent i la notable pujada de la temperatura, que tocarà sostre, seran els altres factors meteorològics destacables.
+La borrasca Herminia, que ha deixat ventades molt fortes en alguns punts de l'oest de la Península i un temporal de mar molt dur, es va retirant cap a les illes Britàniques i la zona d'Escandinàvia. Després del pas d'un front associat a aquesta pertorbació, Catalunya quedarà fora del seu radi d'acció, però la diferència de pressió entre aquesta borrasca i l'anticicló de les Açores farà entrar el vent del nord-oest, que tornarà l'ambient de ple hivern després d'un dilluns de termòmetres disparats.
+
+Es mantenen les ventades
+
+Les ventades de mestral es mantindran a les Terres de l'Ebre i al Camp de Tarragona, però també en bona part de la meitat sud del litoral i prelitoral i de la depressió Central. També a les cotes altes del Pirineu i al nord del Cap de Creus. Les ratxes poden superar els 70 km/h en tots aquests sectors i per aquest motiu mantindrem activat l'avís, també per estat de la mar, del Servei Meteorològic de Catalunya, sobretot durant la primera part del dia.
+
+Arc de Sant Martí a Solsona (Claustre Moncunill)
+
+Cel variable, amb una mica de neu
+
+Serà un dia en què s'intercalaran estones de sol amb el pas de núvols alts i mitjans, que deixaran un cel mig ennuvolat en alguns moments. També podran aparèixer alguns núvols baixos en punts de la Catalunya Central o el Prepirineu. Al matí difícilment precipitarà o a tot estirar 4 gotes o flocs de neu en punts del terç nord per damunt dels 1.000 metres.
+
+Serà a la tarda quan la nevada es pot reactivar una mica a la cara nord del Pirineu, amb una cota de neu al voltant dels 800 metres. 
  
 
-Núvols abundants i estones de pluja
+Tornem a l'hivern
 
-Tindrem un dia de núvols abundants per començar la setmana. El trànsit de núvols serà constant al llarg del dia. A estones, es veuran més o menys trencats, i seran més compactes cap al nord-oest i alternant amb més clarianes cap al nord-est. Només a partir del vespre s'obriran grans clarianes.
+Després de disparar-se la temperatura aquest dilluns amb vent d'oest i sud-oest, aquest dimarts la temperatura baixarà d'una manera molt clara. Les mínimes respecte a dilluns al matí podran baixar més de 10 graus al Pirineu, però la baixada serà notòria arreu del país, menys intensa a la façana litoral. 
 
-De tot aquest pas de núvols, no esperem grans precipitacions. Només cap a l'extrem nord-oest, els models calculen registres destacables, amb alguns màxims d'uns 60 mm al vessant sud del Pirineu Occidental. La pluja serà persistent entre la matinada i el migdia en aquest sector, i tornarà a revifar-se breument al final del dia. La cota de neu baixarà dels 2.300 als 1.400 metres, al llarg de la tarda. A la resta del país, la pluja caurà de manera més intermitent, més aviat a la tarda. Pràcticament no esperem precipitació a la façana litoral.
+Comparativa de la temperatura mínima prevista per a dimarts respecte a dilluns (Model WRF / TVC)
 
-Precipitació prevista en 24 hores per a dilluns (WRF / TVC)
-
+Així doncs, els valors de temperatura de primera hora del matí seran àmpliament negatius a l'alta muntanya, i a diferència d'avui quedaran per sota dels 10 ºC pràcticament arreu del país. Al migdia, els termòmetres també quedaran clarament més curts i ja no arribarem als 20 ºC sinó que ens mourem entre els 11 i els 16, a tot estirar 17 ºC.
  
 
-Vent
+I dimecres...
 
-El Servei Meteorològic de Catalunya manté activat un avís per vent per a dilluns, i també per onatge. El vent de sud-oest bufarà amb cops forts a la Costa Central i a la Costa Brava. Al final del dia girarà, i entraran el mestral i la tramuntana als dos extrems del país, mentre que el vent de l'oest es reforçarà al prelitoral central. També tindrem cops forts al Pirineu.
+Sembla que arribarà una petita nova línia frontal associada a una nova borrasca atlàntica, i això que farà que, després d'un matí tranquil, durant la tarda els núvols vagin en augment i arribin algunes febles precipitacions de cara al vespre i la nit al terç oest i al Pirineu, amb una cota de neu que se situarà entorn dels 900 metres. L'ambient hivernal haurà arribat per quedar-se durant la resta de la setmana.
 
-Temperatura en ascens
-
-Com hem avançat, i si no canvien radicalment els mapes, aquest dilluns serà el dia amb temperatures més altes de la setmana. Les mínimes pujaran de manera molt clara a gairebé tot Catalunya. Les màximes també pujaran, tot i que de manera menys clara en general, especialment al quadrant nord-oest, on estarà més tapat. En canvi, es dispararan en punts de Ponent, les Terres de l'Ebre o el litoral i prelitoral nord. En tots aquests sectors assolirem els 20 ºC, amb alguns valors de fins a 22 o 23 ºC.
-
-I dimarts...
-
-Un cop passi el front de dilluns, tindrem una entrada d'aire fred que farà davallar la temperatura fins a valors per sota de la mitjana climàtica per l'època, tal com es veu en el meteograma de la ciutat de Barcelona. Tindrem precipitacions residuals al terç nord, amb una cota de neu que voltarà els 900 metres. El vent bufarà de component oest amb cops forts.
-
-Meteograma de la ciutat de Barcelona (GEFS / 3Cat)
+ 
