@@ -1,23 +1,43 @@
-Ja tenim el canvi de temps ben a prop, falten poques hores perquè arribi a Catalunya. La llengua d'aire fred en altura s'anirà escolant des del nord del continent europeu i, alhora, ens arribarà un front fred en superfície associat a una borrasca atlàntica. Tot plegat farà que el temps s'inestabilitzi clarament a partir d'aquest divendres, sobretot durant la segona meitat de la jornada.
+El cap de setmana començarà amb un canvi de temps fugaç i feroç durant la primera part de dissabte, però continuarà amb un temps força més encalmat després. En poques hores tindrem pluja, neu i ventades. El Servei Meteorològic de Catalunya ha activat avisos per neu i intensitat de pluja.
 
-Arriba la pluja i la neu
+Dissabte amb pluja i neu matinal
 
-Al matí notarem algun primer símptoma de canvi, però no esperem gaire precipitació més enllà d'algun plugim despistat prefrontal; per exemple, en punts del Camp de Tarragona. Després d'unes primeres hores en què apareixeran boires a planes i fondalades, els núvols aniran en augment d'oest a est i s'aniran fent cada vegada més espessos i gruixuts arreu fins a tapar el sol completament.
+Entre la matinada i el migdia tindrem la major part de l'activitat meteorològica del dia. La part més activa de la pertorbació afectarà, entre la mitjanit i el matí, el nord i nord-est del país, amb xàfecs localment més moderats, localment amb tempesta i amb registres més abundants, entre el prelitoral central i la Costa Brava.
 
-A la tarda arribaran les primeres precipitacions amb més cara i ulls. Començaran havent dinat a la zona del Pirineu i a les comarques de Ponent i des d'aquí s'aniran estenent cap a la resta del país durant el vespre i nit. Serà un canvi que passarà força ràpid i que durarà fins dissabte al migdia en general.
+Una segona línia de precipitació, menys activa, arribarà per l'oest ben entrada la matinada. Totes dues convergiran al quadrant nord-est durant el matí.
 
-Ara bé, algun ruixat pot descarregar amb una mica més de ganes ganes. Al Pirineu hi pot haver acumulacions que poden superar els 25 cm de neu, sobretot al sector oriental, per damunt dels 1.400 metres. Pel que fa a la pluja, els registres més destacats els esperem entre les comarques de Girona i Barcelona, amb una regada que pot deixar fins a 30 mm en aquests sectors.
+En aquesta fase del dia caldrà estar pendents de la cota de neu. Començarà cap als 1.200 metres, però al matí estarà situada al voltant dels 600 metres. En moments de ruixat pot caure puntualment per sota. Aquest és un mapa de precipitació per a dissabte, on es veu com la pluja o la neu es concentraran al nord i nord-est del país.
 
-La cota de neu estarà inicialment al voltant dels 1.000 o 1.200 metres, però anirà a baixant un cop arribi la nit i ja durant la matinada de dissabte, quan podem tenir algunes nevades a cotes inferiors als 600 metres o fins i tot encara una mica més avall, al Pirineu i les comarques de l'interior del nord-est. En aquest sentit tenim avisos activats del Servei Meteorològic de Catalunya. També pel vent de sud, que es reforçarà a les cotes altes del Pirineu.
+Pluja prevista en 24 hores per a dissabte (WRF / 3Cat)
 
-Cel molt ennuvolat a Cardedeu (Miguel Ángel Ciudad)
+La tarda serà de grans clarianes per l'oest i pel terç sud, però continuaran desenvolupant-se nuvolades pel nord de la Catalunya Central i a l'interior del quadrant nord-est. En aquests sectors poden caure alguns xàfecs dispersos i poc abundants, tot i que poden deixar alguna calamarsada.
 
-La temperatura vol recular
+Mestral i tramuntana
 
-El termòmetre començarà a baixar, sobretot a muntanya, tot i que al migdia l'ambient serà més fresc arreu a causa de la presència de núvols. Per tant, ja quedarem lluny dels 19 o 20 ºC que han assolit les màximes més altes aquests darrers dies. En general, quedaran entre els 9 i 14 graus en general, poc per sobre dels 15 ºC allà on s'enfilin més.
+El pas de la pertorbació portarà un gir dels vents, que bufaran del sud de matinada. A l'inici del matí entraran el cerç o mestral a les Terres de l'Ebre i el Camp de Tarragona, i poc després la tramuntana a l'Empordà, amb cops forts.
 
-Com que no serà fins avançat el matí que el cel anirà quedant més tapat, durant la matinada el cel estarà relativament poc ennuvolat, i això afavorirà que comencem la jornada encara amb glaçades a comarques interiors. 
+Vent previst per a dissabte a les 12 UTC(WRF / 3Cat)
 
-I el cap de setmana...
+Menys fred matinal
 
-Durant la primera part de dissabte ens acabarà de creuar la pertorbació. Entrarà el vent de nord i s'endurà els núvols de moltes comarques a la tarda. Serà aleshores quan la refrescada es generalitzarà arreu del país, després d'una nit i matinada que serà menys freda en alguns casos a causa dels núvols i del trencament de la inversió tèrmica. Diumenge parlarem d'una dinàmica molt diferent, ens espera un dia d'ambient assolellat i on la temperatura es voldrà recuperar com si no hagués passat res.
+La temperatura de primera hora serà més alta en general, i les mínimes es registraran a última hora del dia al Pirineu.
+
+Les temperatures del migdia seran més baixes al nord i nord-est. A la resta, els valors seran semblants als de divendres.
+
+El vent del nord-est farà pujar les màximes cap als 15 ºC a la Costa Daurada. També poden arribar puntualment als 15 ºC per Ponent. En canvi, les temperatures diürnes quedaran clarament més curtes pel nord-est, amb valors frenats per sota dels 10 ºC en punts d'interior.
+
+Diumenge, torna la calma
+
+Quedarem en una situació una mica indefinida, sense grans pertorbacions o anticiclons dominant a Catalunya, amb un temps tranquil. El mestral i la tramuntana aniran de baixa a partir del matí.
+ 
+
+Més clarianes
+
+El dia es presenta amb força sol, tot i que també esperem alguns bancs de núvols baixos matinals costaners i bancs de boira a punts de l'altiplà central i a Ponent. A la tarda pot arribar una mica de nuvolositat cap al Pirineu, per la proximitat d'un petit front càlid associat a una borrasca atlàntica.
+ 
+
+Més fred matinal
+
+Amb la previsió de cel poc ennuvolat i de menys vent, esperem una matinada més freda, amb baixades de la temperatura de 3 o 4 ºC a molts punts de l'interior, fins i tot més per a les comarques de Girona o Barcelona.
+
+En canvi, al migdia, la temperatura es recuperarà de manera molt clara al Pirineu i al quadrant nord-est. Pot quedar més baixa a Ponent, per la presència de boira matinal. Repetirem valors d'uns 15 ºC a les Terres de l'Ebre, i de 13 o 14 ºC al prelitoral central i nord.
