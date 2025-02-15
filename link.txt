@@ -1,21 +1,25 @@
-Durant els propers dies tindrem una dorsal anticiclònica i això ens garantirà uns dies de temps més tranquil que vindran marcats en general pel sol, però que a estones es veurà interromput per la presència de boires i d'alguns núvols. També hem d'esperar una temperatura que tindrà tendència a pujar, amb ambient que serà ben suau als migdies.
+Els grans centres d'acció meteorològica estaran lluny de Catalunya aquest cap de setmana: un anticicló al centre d'Europa, i diversos centres de baixes pressions davant d'Itàlia i a l'Atlàntic. El resultat de tot plegat serà un temps variable i amb una temperatura que anirà amunt i avall.
 
-Barreja de sol i de núvols
+Dissabte de cel força ennuvolat
 
-De moment aquest divendres arrencarem la jornada amb bancs de boira i núvols baixos extensos, des de la Catalunya Central a les comarques de Ponent o de l'interior de la vall de l'Ebre. També tindrem núvols baixos a la cara nord del Pirineu, on un cel més tapat pot deixar durant el matí quatre gotes o flocs de neu per damunt dels 1.900 metres. 
+El primer dia del cap de setmana estarà marcat pels vents de component marítim, i això afavorirà la presència de boira i núvols baixos abundants, que es repartiran per tota la façana litoral i prelitoral, i també s'endinsaran cap a l'interior, per bona part de la depressió central i també al Camp de Tarragona. Durant les hores centrals del dia, els núvols baixos s'esqueixaran, però no desapareixeran del tot, sobretot els de la meitat sud del litoral. De tots aquests núvols baixos podem esperar alguns plugims esporàdics.  A més a més, aniran passant bandes de núvols alts.
 
-A la resta més estones de sol, tot i que a estones mig esmorteït pel pas de núvols alts i mitjans, sobretot durant la primera part del matí. Durant la tarda la majoria d'aquests núvols baixos s'hauran anat trencant, però no ho faran els de la cara nord del Pirineu. Per tant, la tarda serà assolellada en conjunt però amb la possible aparició de més núvols baixos aquesta vegada al sector nord-est del país, cap a la Costa Brava.
+Temperatura diürna en descens
 
-Es mantindrà un lleuger vent de tramuntana al nord del Cap de Creus, sobretot durant la primera meitat del dia.
+La temperatura de dissabte estarà molt lligada a la nuvolositat: a primera hora serà més alta en punts del centre i sud del país, mentre que baixarà per les comarques del nord-est. Les glaçades continuaran localitzades al Pirineu. Al migdia, refrescarà a la façana litoral i prelitoral, i també per la Catalunya Central. El descens més notable serà a les Terres de l'Ebre i al Camp de Tarragona. D'aquesta manera, els valors més alts es registraran per Ponent, i arribaran als 17 o 18 °C. En general estarem entre 10 i 15 °C.
 
-Boirines matinals a Santa Margarida de Montbui (Ramon Busqué)
+Diumenge amb un migdia molt suau 
 
-Ambient suau, massa per l'època
+El més destacat de diumenge serà el canvi de la direcció del vent, que passaran de tenir component marítim a bufar de l'oest i el sud-oest. Això farà repuntar la temperatura. Per la resta, es mantindrà una dinàmica variable.
 
-La temperatura tornarà a ser suau, poc hivernal en general. Com que durant la matinada el cel estarà força tapat trobarem poques o cap glaçada fora de cota mitjana o alta del Pirineu. Les mínimes més elevades tornaran a quedar lleugerament per damunt dels 10 ºC a la costa. A la resta ens mourem entre els 4 i 10 graus.
+Castellbell i el Vilar(Josep Casafont)
 
-Les màximes també es recuperaran durant el dia i tindrem màximes que arribaran o superaran lleugerament els 20 ºC a l'Ebre, a Ponent o als 17 o 18 en àmplies zones del litoral i prelitoral. A la resta del país, molts valors quedaran per sobre dels 15ºC.
+Cel variable
 
-I el cap de setmana...
+Com diem, el pas de núvols alts i mitjans continuarà deixant un cel variable a estones. Seran més abundants durant la primera part del dia, i conviuran amb els núvols baixos matinals, localitzats principalment al litoral i a la depressió central. A diferència de dissabte, els núvols baixos aniran de baixa al llarg del matí. D'aquesta manera, les hores centrals del dia seran de més sensació de sol, reforçada per una temperatura que anirà cap amunt. Com a molt, el cel s'ennuvolarà més a la tarda al Pirineu, on no es descarta alguna gotellada o floc de neu anecdòtic per damunt dels 1.900 metres.
 
-El temps serà tranquil, que no gaire assolellat, perquè tindrem boires i molts núvols. Fins i tot es podrien escapar algunes roines o gotellades, sobretot prop de la façana litoral. Dissabte tindrem una temperatura una mica més baixa i continguda, però que voldrà tornar a recuperar-se de manera més tímida de cara a diumenge.
+Temperatura diürna cap amunt
+
+Començarem el dia amb temperatures més baixes en bona part de Catalunya, mentre que les màximes pujaran de manera molt evident a la meitat est del país. Registrarem pujades de 3 o 4 °C en general, puntualment més pel prelitoral sud. Les màximes s'enfilaran cap als 20 °C a l'interior de les Terres de l'Ebre. Assolirem 18 o 19 °C pel prelitoral central i de 17 o 18 °C per Ponent i l'interior del nord-est.
+
+Evolució de la temperatura per a diumenge a les 14 UTC (WRF / 3Cat)
