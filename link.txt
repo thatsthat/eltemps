@@ -1,25 +1,15 @@
-Els grans centres d'acció meteorològica estaran lluny de Catalunya aquest cap de setmana: un anticicló al centre d'Europa, i diversos centres de baixes pressions davant d'Itàlia i a l'Atlàntic. El resultat de tot plegat serà un temps variable i amb una temperatura que anirà amunt i avall.
+El més destacat de diumenge serà el canvi de la direcció del vent, que passarà de tenir component marítim a bufar de l'oest i el sud-oest. Això farà repuntar la temperatura diürna de manera molt notable en alguns casos. Per la resta, es mantindrà una dinàmica de cel molt canviant.
 
-Dissabte de cel força ennuvolat
+Castellbell i el Vila(Josep Casafont)
 
-El primer dia del cap de setmana estarà marcat pels vents de component marítim, i això afavorirà la presència de boira i núvols baixos abundants, que es repartiran per tota la façana litoral i prelitoral, i també s'endinsaran cap a l'interior, per bona part de la depressió central i també al Camp de Tarragona. Durant les hores centrals del dia, els núvols baixos s'esqueixaran, però no desapareixeran del tot, sobretot els de la meitat sud del litoral. De tots aquests núvols baixos podem esperar alguns plugims esporàdics.  A més a més, aniran passant bandes de núvols alts.
+Núvols en trànsit
 
-Temperatura diürna en descens
-
-La temperatura de dissabte estarà molt lligada a la nuvolositat: a primera hora serà més alta en punts del centre i sud del país, mentre que baixarà per les comarques del nord-est. Les glaçades continuaran localitzades al Pirineu. Al migdia, refrescarà a la façana litoral i prelitoral, i també per la Catalunya Central. El descens més notable serà a les Terres de l'Ebre i al Camp de Tarragona. D'aquesta manera, els valors més alts es registraran per Ponent, i arribaran als 17 o 18 °C. En general estarem entre 10 i 15 °C.
-
-Diumenge amb un migdia molt suau 
-
-El més destacat de diumenge serà el canvi de la direcció del vent, que passaran de tenir component marítim a bufar de l'oest i el sud-oest. Això farà repuntar la temperatura. Per la resta, es mantindrà una dinàmica variable.
-
-Castellbell i el Vilar(Josep Casafont)
-
-Cel variable
-
-Com diem, el pas de núvols alts i mitjans continuarà deixant un cel variable a estones. Seran més abundants durant la primera part del dia, i conviuran amb els núvols baixos matinals, localitzats principalment al litoral i a la depressió central. A diferència de dissabte, els núvols baixos aniran de baixa al llarg del matí. D'aquesta manera, les hores centrals del dia seran de més sensació de sol, reforçada per una temperatura que anirà cap amunt. Com a molt, el cel s'ennuvolarà més a la tarda al Pirineu, on no es descarta alguna gotellada o floc de neu anecdòtic per damunt dels 1.900 metres.
+Com diem, el pas de núvols alts i mitjans continuarà deixant un cel variable a estones. La primera banda de núvols mitjans amb més entitat arribarà durant el matí i avançarà d'oest a est. Al principi del dia conviuran amb els núvols baixos matinals, localitzats principalment al litoral, el nord de la depressió central, la vall de l'Ebre i el Camp de Tarragona. A diferència de dissabte, els núvols baixos aniran de baixa al llarg del matí. D'aquesta manera, durant les hores centrals del dia veurem unes estones de sol, mentre la primera banda de núvols es retira per la costa, a primera hora de la tarda. Però durarà poc, perquè de cara a la segona part del dia arribarà una nova línia de núvols que acabaran deixant el cel tapat arreu a partir del vespre. Fins i tot és probable que caiguin alguns plugims dispersos pel terç oest.
 
 Temperatura diürna cap amunt
 
-Començarem el dia amb temperatures més baixes en bona part de Catalunya, mentre que les màximes pujaran de manera molt evident a la meitat est del país. Registrarem pujades de 3 o 4 °C en general, puntualment més pel prelitoral sud. Les màximes s'enfilaran cap als 20 °C a l'interior de les Terres de l'Ebre. Assolirem 18 o 19 °C pel prelitoral central i de 17 o 18 °C per Ponent i l'interior del nord-est.
+Començarem el dia amb temperatures semblants a les de dissabte, grau amunt, grau avall. En canvi, al migdia, tindrem un repunt molt evident de la temperatura a la meitat est del país. En aquest sector, les màximes pujaran 3 o 4 °C en general, puntualment més pel prelitoral sud. Les màximes s'enfilaran cap als 22 °C a l'interior de les Terres de l'Ebre i cap als 20 pel Camp de Tarragona. Assolirem 18 o 19°C pel prelitoral central i per Ponent, i valors de 15 a 17 ºC en general.
 
-Evolució de la temperatura per a diumenge a les 14 UTC (WRF / 3Cat)
+I dilluns...
+
+Tornaran els vents de component est, i serà un dia de núvols més abundants a la meitat est, amb possibilitat d'algunes precipitacions poc abundants, més probables a les comarques de Girona i litoral de les de Barcelona.
