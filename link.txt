@@ -1,27 +1,34 @@
-El cap de setmana estarà marcat per una bossa d'aire fred que es despenjarà des de França i avançarà cap al nord de Portugal. La influència de l'aire fred, en combinació amb els vents en superfície, anirà fent créixer nuvolades importants, pluges i algunes nevades.
+Dilluns comença una setmana marcada per l'oposició entre un anticicló centrat als Balcans i una pertorbació al golf de Cadis, força estàtica a causa de la barrera de les altes pressions. Aquesta configuració portarà vents de component marítim, que tindran més incidència al País Valencià que a Catalunya.
 
-La nit de dissabte o la matinada de diumenge la pluja s'animarà a la Costa Brava i avançarà al sud i oest de les comarques de Girona.
+Gregal i llevant
+
+Com diem, el vent humit determinarà el temps de bona part de la setmana. Aquest dilluns bufarà entre llevant i gregal a casa nostra, amb alguns cops forts al litoral i prelitoral central i sud. Es manté actiu l'avís del Servei Meteorològic de Catalunya per onatge en alguns trams de la costa.
+
+Vent previst per a dilluns a les 15 UTC (WRF / 3Cat)
+
+Possibilitat de pluja
+
+Un dia més, veurem el cel ben carregat de núvols durant tot el dia, potser amb algunes clarianes matinals cap al nord-oest. Tot i la presència de molts núvols, no registrarem quantitats gaire abundants en general. És una situació sense fronts definits, i els diferents models meteorològics mostren una mica d'incertesa pel que fa a l'hora d'entrada, distribució i quantitats de pluja.
+
+El que sí que indiquen tots és que les precipitacions més importants es registraran al sud de les Terres de l'Ebre, al Montsià, al Baix Ebre i potser també al sud de les Terres de l'Ebre, però sobretot al voltant del massís del Port. En aquest sector anirà plovent, amb més o menys intensitat, durant tot el dia, però sobretot a la tarda. Els models que més carreguen, com l'Arome francès, marquen acumulacions de més de 120 mm entre diumenge i dilluns. Altres mapes, però, indiquen quantitats força inferiors. En qualsevol cas, el Servei Meteorològic de Catalunya ha activat un avís per acumulació de més de 100 mm en 24 hores.
+
+A la resta del país, les previsions indiquen quantitats molt més modestes, d'entre 5 i 10 mm, tot i que també poden entrar des del mar alguns xàfecs més intensos i abundants per la meitat sud del litoral i prelitoral, i per l'interior del quadrant nord-est, sobretot al Pirineu Oriental. La cota de neu pujarà d'uns 1.400 metres inicials fins als 1.600 al Pirineu i 1.800 metres a la resta. Els xàfecs més intensos, amb possibilitat de tempesta, arribarien entre mig matí i mitja tarda. Al final del dia, la precipitació tendirà a concentrar-se a l'extrem sud.
+
+Temperatura en ascens
+
+Venen uns dies amb una temperatura lleugerament per sobre de la mitjana climàtica per a l'època. Dilluns, la mínima pujarà entre 1 i 4 ºC en general, amb la pujada més notable cap a Ponent.
+
+Les màximes seran semblants o una mica més altes que les de diumenge en general. La pujada serà de 3 a 5 ºC en punts de Ponent, les Garrigues o el nord de les Terres de l'Ebre. Els valors més alts arribaran als 17 o 18 ºC per Ponent i, puntualment, al prelitoral central. En general estarem a entre 10 i 15 ºC.
+
+I dimarts...
+
+El flux de llevant farà arribar més pluges a la façana mediterrània. En el cas de Catalunya, la pluja quedaria concentrada a les Terres de l'Ebre, principalment al Montsià i al Baix Ebre. Entre diumenge i dijous a la nit, diferents models indiquen acumulacions molt diverses en aquest sector, que van des dels 150 fins als 300 o 400 mm en cinc dies de pluja. Veurem com evoluciona la situació.
+
+Pluja acumulada en 24 hores prevista per a dimarts (WRF / TVC)
+
+Al País Valencià, també hi ha incertesa, tot i que segur que la pluja serà més abundant i general. De moment, tot indica que les comarques de muntanya de Castelló seran les que rebin més pluja.
  
 
-Temperatura baixa al Pirineu, fresca a la costa
-
-Pel que fa a la temperatura, tindrem un comportament antagònic entre les mínimes, que tendiran a pujar una mica en general, i les màximes, que seran entre 2 i 4 ºC més altes de dia que les de dissabte al Pirineu, amb algunes clarianes a la Vall d'Aran i nord del Pallars. Les màximes quedaran una mica més curtes a les comarques gironines, el Maresme i al voltant del Montseny.  Amb el cel tan ennuvolat, no passarem dels 16 ºC en punts de Ponent o les Terres de l'Ebre. En general, estarem entre 10 i 15 ºC.
-
  
 
-Diumenge amb pluges matineres a Girona i, al vespre, al sud de l'Ebre
-
-Diumenge, la bossa d'aire fred estarà una mica més lluny de Catalunya, però continuarem sota l'influx dels vents humits. El cel continuarà marcat per la nuvolositat abundant i la possibilitat d'algunes precipitacions. El vent, de component marítim, deixarà cops moderats o puntualment forts al litoral. El Servei Meteorològic de Catalunya ha activat un avís per onatge a una bona part de la costa catalana.
-
-Cel ennuvolat a Girona (Eva Solanes)
-
-Núvols abundants
-
-Mantindrem la dinàmica de cel força ennuvolat, potser amb algunes clarianes transitòries pel nord-oest, per la retirada de l'aire fred. En canvi, la nuvolositat serà més compacta a la façana litoral. D'entrada, durant la matinada i el matí, esperem algunes precipitacions poc abundants a la meitat est, més extenses per les comarques de Girona i per les Terres de l'Ebre. La cota de neu se situarà al voltant dels 1.000 metres, i pujarà als 1.200 metres durant el matí.
-
-Durant la tarda i el vespre, la pluja caurà de forma molt dispersa en general, però pot arribar a altres punts de Catalunya, amb quantitats minses. Potser cap al massís del Port es registraran quantitats més abundants. Podria nevar o fer aiguaneu a la zona elevada del Caro. La cota de neu anirà pujant cap als 1.400 o 1.500  metres.
  
-
-I més endavant... pluges abundants al sud de l'Ebre i al País Valencià
-
-Dilluns la pluja desapareixerà del centre i nord del país, però a l'extrem sud seran més abundants i localment intenses. La llevantada es reforçarà a les comarques de València, nord d'Alacant i a l'interior de Castelló. Aquesta situació es pot allargar fins dijous ben bé. A les comarques centrals de València en quatre dies es poden acumular de 100 a 200 litres per metre quadrat, amb crescuda de rambles i torrents, si bé no sembla que la pluja sigui torrencial, però sí intensa i continuada durant moltes hores. Precaució a les zones inundables.
