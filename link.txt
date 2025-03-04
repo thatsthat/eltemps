@@ -1,34 +1,19 @@
-Dilluns comença una setmana marcada per l'oposició entre un anticicló centrat als Balcans i una pertorbació al golf de Cadis, força estàtica a causa de la barrera de les altes pressions. Aquesta configuració portarà vents de component marítim, que tindran més incidència al País Valencià que a Catalunya.
+L'oposició entre la pertorbació del sud-oest peninsular i l'anticicló dels Balcans seguirà impulsant vents humits, de llevant o gregal, a Catalunya. De nou són possibles alguns cops forts al litoral o prelitoral i es mantindrà l'avís del Servei Meteorològic de Catalunya per onatge al sud de la Costa Daurada.
 
-Gregal i llevant
+Núvols abundants i ullades de sol
 
-Com diem, el vent humit determinarà el temps de bona part de la setmana. Aquest dilluns bufarà entre llevant i gregal a casa nostra, amb alguns cops forts al litoral i prelitoral central i sud. Es manté actiu l'avís del Servei Meteorològic de Catalunya per onatge en alguns trams de la costa.
+Mantindrem un cel amb núvols abundants en general, potser amb més oportunitats de veure estones de sol a la meitat nord. En canvi, tot indica que continuarà plovent durant tot el dia a les Terres de l'Ebre, sobretot entorn del massís del Port. Per això continua actiu l'avís per acumulacions de precipitació superiors als 100 mm en 24 hores.  
 
-Vent previst per a dilluns a les 15 UTC (WRF / 3Cat)
+A la resta del país hi ha una previsió molt més incerta, però sempre amb la idea que la pluja sigui més aviat feble, dispersa i poc abundant. La cota de neu pujarà en general dels 1.600 als 1.800 metres. Aquí teniu un exemple de la precipitació prevista per a les pròximes 24 hores pel model WRF:
 
-Possibilitat de pluja
+Mapa de precipitació prevista per a les pròximes 24 hores per a dimarts(WRF / 3Cat)
 
-Un dia més, veurem el cel ben carregat de núvols durant tot el dia, potser amb algunes clarianes matinals cap al nord-oest. Tot i la presència de molts núvols, no registrarem quantitats gaire abundants en general. És una situació sense fronts definits, i els diferents models meteorològics mostren una mica d'incertesa pel que fa a l'hora d'entrada, distribució i quantitats de pluja.
+Temperatura diürna més alta
 
-El que sí que indiquen tots és que les precipitacions més importants es registraran al sud de les Terres de l'Ebre, al Montsià, al Baix Ebre i potser també al sud de les Terres de l'Ebre, però sobretot al voltant del massís del Port. En aquest sector anirà plovent, amb més o menys intensitat, durant tot el dia, però sobretot a la tarda. Els models que més carreguen, com l'Arome francès, marquen acumulacions de més de 120 mm entre diumenge i dilluns. Altres mapes, però, indiquen quantitats força inferiors. En qualsevol cas, el Servei Meteorològic de Catalunya ha activat un avís per acumulació de més de 100 mm en 24 hores.
+Esperem temperatures de primera hora molt semblants a les de dilluns. Un panorama poc fred, amb una lleugera pujada de les mínimes a l'oest i una lleugera baixada en punts del litoral o prelitoral, però cap canvi rellevant. Al migdia, la temperatura pujarà 3 o 4 ºC en bona part de la meitat nord de Catalunya, mentre que canviarà poc al litoral central, a la Costa Daurada i a l'interior de les Terres de l'Ebre. A Ponent assolirem valors de fins a 20 ºC i a les Terres de l'Ebre i al prelitoral Central, uns 17 o 18 ºC.
 
-A la resta del país, les previsions indiquen quantitats molt més modestes, d'entre 5 i 10 mm, tot i que també poden entrar des del mar alguns xàfecs més intensos i abundants per la meitat sud del litoral i prelitoral, i per l'interior del quadrant nord-est, sobretot al Pirineu Oriental. La cota de neu pujarà d'uns 1.400 metres inicials fins als 1.600 al Pirineu i 1.800 metres a la resta. Els xàfecs més intensos, amb possibilitat de tempesta, arribarien entre mig matí i mitja tarda. Al final del dia, la precipitació tendirà a concentrar-se a l'extrem sud.
+I dimecres...
 
-Temperatura en ascens
-
-Venen uns dies amb una temperatura lleugerament per sobre de la mitjana climàtica per a l'època. Dilluns, la mínima pujarà entre 1 i 4 ºC en general, amb la pujada més notable cap a Ponent.
-
-Les màximes seran semblants o una mica més altes que les de diumenge en general. La pujada serà de 3 a 5 ºC en punts de Ponent, les Garrigues o el nord de les Terres de l'Ebre. Els valors més alts arribaran als 17 o 18 ºC per Ponent i, puntualment, al prelitoral central. En general estarem a entre 10 i 15 ºC.
-
-I dimarts...
-
-El flux de llevant farà arribar més pluges a la façana mediterrània. En el cas de Catalunya, la pluja quedaria concentrada a les Terres de l'Ebre, principalment al Montsià i al Baix Ebre. Entre diumenge i dijous a la nit, diferents models indiquen acumulacions molt diverses en aquest sector, que van des dels 150 fins als 300 o 400 mm en cinc dies de pluja. Veurem com evoluciona la situació.
-
-Pluja acumulada en 24 hores prevista per a dimarts (WRF / TVC)
-
-Al País Valencià, també hi ha incertesa, tot i que segur que la pluja serà més abundant i general. De moment, tot indica que les comarques de muntanya de Castelló seran les que rebin més pluja.
- 
-
- 
+Durant unes hores més poden mantenir-se condicions semblants a les de dimarts, amb més possibilitat de pluja abundant al terç sud i plugims dispersos en altres punts del litoral o prelitoral. La temperatura no canviarà gaire.
 
  
