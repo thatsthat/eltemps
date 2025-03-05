@@ -1,19 +1,24 @@
-L'oposició entre la pertorbació del sud-oest peninsular i l'anticicló dels Balcans seguirà impulsant vents humits, de llevant o gregal, a Catalunya. De nou són possibles alguns cops forts al litoral o prelitoral i es mantindrà l'avís del Servei Meteorològic de Catalunya per onatge al sud de la Costa Daurada.
+Aquest dimecres continuarem pendents del moviment de la pertorbació del golf de Cadis i l'anticicló dels Balcans, perquè sabem que petits canvis en la posició prevista poden comportar grans diferències en la quantitat i la ubicació de la pluja prevista. Ara per ara, tot indica que dimecres serà un dia semblant a dimarts, amb precipitació concentrada a la zona del Port.
 
-Núvols abundants i ullades de sol
+Sortida del sol a Calella(Tino Valduvieco)
 
-Mantindrem un cel amb núvols abundants en general, potser amb més oportunitats de veure estones de sol a la meitat nord. En canvi, tot indica que continuarà plovent durant tot el dia a les Terres de l'Ebre, sobretot entorn del massís del Port. Per això continua actiu l'avís per acumulacions de precipitació superiors als 100 mm en 24 hores.  
+Cel variable
 
-A la resta del país hi ha una previsió molt més incerta, però sempre amb la idea que la pluja sigui més aviat feble, dispersa i poc abundant. La cota de neu pujarà en general dels 1.600 als 1.800 metres. Aquí teniu un exemple de la precipitació prevista per a les pròximes 24 hores pel model WRF:
+El dia començarà amb grans clarianes generals, intervals de núvols a la façana litoral i el nord-est i un cel més tapat a les Terres de l'Ebre. Hi ha la possibilitat que plovisquegi, sobretot cap al massís del Port.
 
-Mapa de precipitació prevista per a les pròximes 24 hores per a dimarts(WRF / 3Cat)
+Durant la tarda creixeran més nuvolades i el cel es veurà més variable en general, potser amb alguna gotellada pel Pirineu, i amb una pluja que s'animarà novament a l'entorn del Port. Acabarem amb un cel ennuvolat arreu i amb una precipitació que es començarà a intensificar a l'extrem sud.
 
-Temperatura diürna més alta
+Llevant i gregal
 
-Esperem temperatures de primera hora molt semblants a les de dilluns. Un panorama poc fred, amb una lleugera pujada de les mínimes a l'oest i una lleugera baixada en punts del litoral o prelitoral, però cap canvi rellevant. Al migdia, la temperatura pujarà 3 o 4 ºC en bona part de la meitat nord de Catalunya, mentre que canviarà poc al litoral central, a la Costa Daurada i a l'interior de les Terres de l'Ebre. A Ponent assolirem valors de fins a 20 ºC i a les Terres de l'Ebre i al prelitoral Central, uns 17 o 18 ºC.
+Es mantindrà la situació de vents de llevant i gregal, que bufarà amb cops forts a estones al litoral i prelitoral central i sud.
 
-I dimecres...
+Vent previst per a dimecres a les 12 UTC(WRF / 3Cat)
 
-Durant unes hores més poden mantenir-se condicions semblants a les de dimarts, amb més possibilitat de pluja abundant al terç sud i plugims dispersos en altres punts del litoral o prelitoral. La temperatura no canviarà gaire.
+Temperatura amb pocs canvis
 
+La presència de grans clarianes nocturnes afavorirà el descens de la temperatura a primera hora a moltes comarques del centre i nord del país, tot i que no esperem una gran davallada de les mínimes, ni molt menys. Al migdia, la temperatura pujarà de 2 a 4 ºC a punts del nord-oest, i pot baixar un parell de graus pel sud de les Terres de l'Ebre. A la resta de Catalunya, les màximes es mantindran, si fa o no fa. Calculem uns 18 o 19 ºC a Ponent, i uns 17 ºC o 18 ºC a la vall de l'Ebre, el prelitoral central i sud, i també l'interior de l'Alt Empordà.
  
+
+I dijous...
+
+Si tot va com està previst ara, es reactivarà el vent de llevant i tornarà a ploure amb més ganes i a més comarques, sobretot a la façana litoral i al prelitoral. Les quantitats més abundants es tornaran a acumular a l'entorn del massís del Port, on diversos models calculen més de 100 mm.
