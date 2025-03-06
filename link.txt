@@ -1,24 +1,27 @@
-Aquest dimecres continuarem pendents del moviment de la pertorbació del golf de Cadis i l'anticicló dels Balcans, perquè sabem que petits canvis en la posició prevista poden comportar grans diferències en la quantitat i la ubicació de la pluja prevista. Ara per ara, tot indica que dimecres serà un dia semblant a dimarts, amb precipitació concentrada a la zona del Port.
+Aquest dijous pot ser l'últim dia d'influència del vent de llevant a Catalunya, i la pluja tornarà a reaparèixer. El Servei Meteorològic de Catalunya ha activat, de nou, un avís per acumulació de més de 100 mm a les Terres de l'Ebre. A partir de divendres, el temps vindrà marcat per una borrasca que se situarà a Galícia i que pot portar pluges més generals a casa nostra durant el cap de setmana.
 
-Sortida del sol a Calella(Tino Valduvieco)
+Xerta(Vicenç Carrera)
 
-Cel variable
-
-El dia començarà amb grans clarianes generals, intervals de núvols a la façana litoral i el nord-est i un cel més tapat a les Terres de l'Ebre. Hi ha la possibilitat que plovisquegi, sobretot cap al massís del Port.
-
-Durant la tarda creixeran més nuvolades i el cel es veurà més variable en general, potser amb alguna gotellada pel Pirineu, i amb una pluja que s'animarà novament a l'entorn del Port. Acabarem amb un cel ennuvolat arreu i amb una precipitació que es començarà a intensificar a l'extrem sud.
-
-Llevant i gregal
-
-Es mantindrà la situació de vents de llevant i gregal, que bufarà amb cops forts a estones al litoral i prelitoral central i sud.
-
-Vent previst per a dimecres a les 12 UTC(WRF / 3Cat)
-
-Temperatura amb pocs canvis
-
-La presència de grans clarianes nocturnes afavorirà el descens de la temperatura a primera hora a moltes comarques del centre i nord del país, tot i que no esperem una gran davallada de les mínimes, ni molt menys. Al migdia, la temperatura pujarà de 2 a 4 ºC a punts del nord-oest, i pot baixar un parell de graus pel sud de les Terres de l'Ebre. A la resta de Catalunya, les màximes es mantindran, si fa o no fa. Calculem uns 18 o 19 ºC a Ponent, i uns 17 ºC o 18 ºC a la vall de l'Ebre, el prelitoral central i sud, i també l'interior de l'Alt Empordà.
  
 
-I dijous...
+Vent de llevant
 
-Si tot va com està previst ara, es reactivarà el vent de llevant i tornarà a ploure amb més ganes i a més comarques, sobretot a la façana litoral i al prelitoral. Les quantitats més abundants es tornaran a acumular a l'entorn del massís del Port, on diversos models calculen més de 100 mm.
+Bufarà vent de component nord i est al litoral i prelitoral, sobretot entre llevant i gregal, entre fluix i moderat, amb cops forts a la meitat sud del litoral. A la resta del territori bufarà vent de component est, fluix, amb cops moderats en general, tot i que es reforçarà a la meitat sud, on hi haurà cops forts a zones elevades. La mar també es veurà afectada per aquest situació de vents, amb onades que es faran més altes. 
+
+Vent previst per a dijous a les 12 UTC(WRF / 3Cat)
+
+Torna la pluja molt abundant a la zona dels Ports
+
+Els mapes indiquen un dijous ennuvolat i amb precipitacions al llarg del dia, amb moments de més i menys intensitat. Al final de la jornada, tindrem registres molt abundants a l'extrem sud del país, sobretot entorn del massís del Port. L'altra zona de precipitacions extenses i abundants, tot i que menys que al sud, serà la demarcació de Girona. A la resta del litoral i prelitoral tindrem registres menors, però hi poden caure també alguns ruixats locals més destacats, així com també al vessant sud del Pirineu. La cota de neu voltarà entre els 1.600 metres i 1.800 metres. A les comarques de Ponent, l'oest de la Catalunya Central o el Pirineu occidental esperem molt poca pluja o gens.
+
+Pluja acumulada dijous en 24 h (WRF / 3Cat)
+
+ 
+
+Màximes en descens
+
+A primera hora, la temperatura tornarà a pujar per la presència de núvols arreu. Podem registrar pujades d'1 a 3 ºC en general. En canvi, esperem màximes més curtes en general, sobretot a bona part de la façana litoral i prelitoral. Es mantindran cap al nord-oest i al sud de les Terres de l'Ebre. Els valors més alts arribaran als 17 ºC o 18ºC a Ponent, però estarem entre els 11 ºC i 15 ºC en general.
+
+I divendres...
+
+Previsiblement, la pertorbació atlàntica farà incidir vents del sud i sud-est a Catalunya, i la precipitació pot ser més abundant al quadrant nord-est i el vessant sud de l'Alt Pirineu.
