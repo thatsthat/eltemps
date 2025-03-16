@@ -1,32 +1,22 @@
-La borrasca responsable de les pluges de divendres s'anirà desfent, però encara tindrem la influència de l'aire fred en altura durant el cap de setmana. Tornarem a veure el sol, però no farà net del tot i tindrem alguns ruixats.
-
-Núvols amenaçadors al Montseny(Miquel del Rio)
-
-Dissabte amb sol i ruixats
-
-El dia començarà amb núvols abundants en retirada al llarg de la matinada. Durant aquesta fase del dia esperem precipitacions poc abundants en punts de la meitat est, principalment al nord-est, on la cota voltarà els 600 metres. També nevarà de manera feble al Pirineu.
-
-El matí serà de núvols baixos residuals per l'oest de la depressió Central, el quadrant nord-est i el Pirineu. Previsiblement, la precipitació s'aturarà o serà molt anecdòtica. A la resta, farà sol. Entraran el cerç o mestral al terç sud, i la tramuntana a la zona del cap de Creus, amb cops forts.
-
-El temps tornarà a canviar durant les hores centrals del dia, quan començaran a desenvolupar-se nuvolades d'evolució que derivaran en nous xàfecs moderats, localitzats a les comarques del nord-est, principalment cap a la Garrotxa, el Ripollès, Osona, la Selva i el Gironès. De manera més aïllada cauran per altres punts del Prepirineu i Pirineu occidental. En general, esperem quantitats poc abundants. La cota de neu se situarà al voltant dels 900 metres.
+Aquest diumenge arriba una petita pertorbació a Catalunya. Serà vista i no vista, i no portarà un gran canvi de temps, però serà suficient per tapar el sol una altra vegada i obligar-nos a obrir el paraigua en alguns indrets, sobretot a la tarda.
  
 
-Temperatura màxima en ascens
+Núvols en augment i xàfecs poc abundants
 
-La temperatura mínima baixarà en general, de manera més clara per Ponent i el nord-oest. En canvi, les màximes pujaran 3 o 4 ºC gairebé a tot arreu. Només a la Costa Brava i al Pirineu, baixaran 2 o 3 ºC.  Els valors més alts se situaran al voltant dels 16 ºC a la Costa Daurada i en punts del prelitoral Central. A la resta, entre els 8 i els 14 ºC.  
+El dia començarà amb una primera hora dominada pel sol en una gran part del país. Tot i això, quedaran núvols al sector litoral i prelitoral nord, sense que es puguin descartar alguns plugims matinals anecdòtics. Però ja durant el matí, els núvols associats a la pertorbació trauran el nas i aniran avançant de sud-oest a nord-est. Pot arribar algun primer xàfec per la Terra Alta o el Baix Ebre.
 
-Diumenge, el cel no farà net
+Al llarg de la tarda, el cel estarà cada cop més tapat i els xàfecs avançaran seguint la mateixa direcció, de sud-oest a nord-est. Poden afectar qualsevol punt del país, de manera localment moderada, tot i que en general deixaran quantitats poc abundants. La cota de neu voltarà els 1.100 metres al terç sud, i entre els 900 metres a la resta.
 
-Estarem amb una situació una mica indefinida a la superfície, entre la perifèria de l'anticicló que dominarà des del Regne Unit i una pertorbació atlàntica que s'acostarà per Portugal. Però per les capes altes atmosfèriques tindrem una petita bossa freda. La possibilitat de ruixats es manté un dia més.
- 
+Aquesta és la precipitació que calcula el model WRF per a tot el dia. Altres mapes pinten que la pluja també arribarà al nord-est.
 
-Sol, núvols i xàfecs
-
-El dia tindrà dues fases molt diferents, amb una primera part amb domini del sol en una gran part del país. Tot i això, quedaran núvols al sector litoral i prelitoral nord, sense que es puguin descartar alguns plugims.
-
-De cara al migdia, notarem més la proximitat de la bossa freda. Els núvols augmentaran de sud-oest a nord-est, i també creixeran nuvolades d'evolució. Es reactivaran els xàfecs pel Pirineu i per l'interior del nord-est, però també n'arribaran per l'extrem sud, en desplaçament des dels Ports de Tortosa cap al Camp de Tarragona. En conjunt, aquests xàfecs deixaran quantitats poc abundants.
- 
+Pluja prevista per a diumenge (WRF / 3Cat)
 
 Temperatura amb pocs canvis
 
-No serà un diumenge amb grans canvis de temperatura. A primera hora, poden canviar 1 o 2 ºC a tot estirar, cap amunt en punts del litoral i prelitoral sud, cap avall al llarg de la depressió Central o pel prelitoral nord. Al migdia, la tendència serà a mantenir-se o pujar molt lleugerament. Potser, cap a l'interior del nord-est i en punts de l'Alt Pirineu i l'Aran, pujaran 3 o 4 ºC. Els valors més alts es tornaran a situar al voltant dels 16 ºC, per la Costa Daurada i el prelitoral Central.
+No serà un diumenge amb grans canvis de temperatura. A primera hora, poden baixar 1 o 2 ºC  al llarg de la depressió Central o pel prelitoral nord. Les glaçades arribaran a més indrets, tot i que seran febles en general, puntualment moderades. Només al Pirineu seran fortes. Al migdia, la temperatura pujarà cap al Pirineu i al nord-est, però  pot tornar a baixar per l'extrem oest o la Costa Daurada.  Els valors més alts es tornaran a situar al voltant dels 15 ºC, a la Costa Daurada i el prelitoral Central.
+
+I dilluns...
+
+Començarem la setmana amb la mateixa dinàmica de pas de núvols i precipitacions, que seran més abundants a l'extrem sud. I la pluja no s'acabarà aquí. Per als dies següents seguirem en ratxa.
+
+ 
