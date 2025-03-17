@@ -1,22 +1,22 @@
-Aquest diumenge arriba una petita pertorbació a Catalunya. Serà vista i no vista, i no portarà un gran canvi de temps, però serà suficient per tapar el sol una altra vegada i obligar-nos a obrir el paraigua en alguns indrets, sobretot a la tarda.
+La setmana que ve estarà marcada per l'acció de tres borrasques atlàntiques consecutives, que s'acostaran fins a l'oest de la península Ibèrica. La primera entrarà pel golf de Cadis. A Catalunya arribarà dimarts. Abans, tindrem una jornada de transició, amb precipitació més dispersa.
+
+Núvols en augment
+
+Començarem el dilluns amb una matinada de núvols baixos abundants a l'oest de la Depressió Central, al Pirineu i a l'extrem nord-est. Es poden registrar precipitacions molt minses a l'extrem nord. A més a més, arribaran els primers núvols alts i mitjans per l'extrem sud.
+
+Durant el matí el cel s'ennuvolarà per la meitat sud, mentre que serà més variable al nord-est i assolellat al nord-oest. Durant aquest tram del dia no esperem precipitacions. A la tarda, el cel acabarà tapat arreu. És probable que arribin alguns xàfecs dispersos per les Terres de l'Ebre i el sud del Camp de Tarragona. En qualsevol cas, deixarien quantitats poc abundants.
+
+Glaçades febles, màximes en ascens
+
+Un efecte de la proximitat de les borrasques atlàntiques serà el domini de vents de component sud, que faran remuntar la temperatura al llarg dels pròxims dies, com a tendència general. Això es pot veure al meteograma de la ciutat de Barcelona. A mitjans de setmana, començarem a estar per sobre de la mitjana climàtica per l'època.
+
+Evolució de la temperatura a 850 hPa respecte a la mitjana a la vertical de Barcelona (GEFS / 3Cat)
+
+En el cas concret de dilluns, esperem unes mínimes iguals o lleugerament més altes que les de diumenge. Això seria una bona notícia pel que fa a la possibilitat de glaçades tardanes que afectin els cultius, perquè seran febles a tot estirar en zones especialment sensibles. Al Pirineu, seran fortes.
+
+Al migdia la temperatura escalarà 3 ºC o 4 ºC per l'oest, fins i tot més per les comarques de Ponent. Pujarà, però menys, per la Costa Daurada i l'Empordà, i serà molt semblant a la del dia anterior a la resta del nord-est. Les màximes voltaran els 15 ºC a Ponent i els 14 ºC a les Terres de l'Ebre, el prelitoral central i l'extrem nord-est.
  
 
-Núvols en augment i xàfecs poc abundants
+I dimarts...
 
-El dia començarà amb una primera hora dominada pel sol en una gran part del país. Tot i això, quedaran núvols al sector litoral i prelitoral nord, sense que es puguin descartar alguns plugims matinals anecdòtics. Però ja durant el matí, els núvols associats a la pertorbació trauran el nas i aniran avançant de sud-oest a nord-est. Pot arribar algun primer xàfec per la Terra Alta o el Baix Ebre.
-
-Al llarg de la tarda, el cel estarà cada cop més tapat i els xàfecs avançaran seguint la mateixa direcció, de sud-oest a nord-est. Poden afectar qualsevol punt del país, de manera localment moderada, tot i que en general deixaran quantitats poc abundants. La cota de neu voltarà els 1.100 metres al terç sud, i entre els 900 metres a la resta.
-
-Aquesta és la precipitació que calcula el model WRF per a tot el dia. Altres mapes pinten que la pluja també arribarà al nord-est.
-
-Pluja prevista per a diumenge (WRF / 3Cat)
-
-Temperatura amb pocs canvis
-
-No serà un diumenge amb grans canvis de temperatura. A primera hora, poden baixar 1 o 2 ºC  al llarg de la depressió Central o pel prelitoral nord. Les glaçades arribaran a més indrets, tot i que seran febles en general, puntualment moderades. Només al Pirineu seran fortes. Al migdia, la temperatura pujarà cap al Pirineu i al nord-est, però  pot tornar a baixar per l'extrem oest o la Costa Daurada.  Els valors més alts es tornaran a situar al voltant dels 15 ºC, a la Costa Daurada i el prelitoral Central.
-
-I dilluns...
-
-Començarem la setmana amb la mateixa dinàmica de pas de núvols i precipitacions, que seran més abundants a l'extrem sud. I la pluja no s'acabarà aquí. Per als dies següents seguirem en ratxa.
-
- 
+S'espera l'arribada del primer embat seriós de la setmana, amb pluja que arribarà des del centre peninsular. Probablement, afectarà les Terres de l'Ebre al matí i la resta del país entre la tarda i la nit. El dia començarà amb menys fred, i la cota de neu pujarà cap als 1.400 metres.
