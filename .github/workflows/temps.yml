@@ -18,7 +18,7 @@ jobs:
         with:
           crate: htmlq
       - name: do the scraping
-        run: curl -s "https://www.3cat.cat/el-temps/" | htmlq -p ".M-rmp + *" -a href a | sed 1q | sed -e 's/\/-/\//g' | echo "https://www.3cat.cat$(cat -)" | curl -s $(cat -) | htmlq -t ".R-itemNotiCos" | sed '/^#mapa/d' | tr -s " " | sed -e "s/^[ \t]*//" | cat -s | sed -e '1d' -e '$d' > link.txt
+        run: curl -s "https://www.3cat.cat/el-temps/" | htmlq -p ".M-rmp + *" -a href a | sed 1q | sed -e 's/\/-/\//g' | echo "https://www.3cat.cat$(cat -)" | curl -s $(cat -) | htmlq -t ".R-itemNotiCos" | sed '/^#mapa/d' | tr -s " " | sed -e "s/^[ \t]*//" | cat -s | sed -e '1d' -e '$d' | cut -c 1-3000 > link.txt
       - name: commit results
         run: |
           git config user.name "github-actions[bot]"
