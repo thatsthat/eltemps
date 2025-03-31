@@ -1,27 +1,21 @@
- 
+Hem començat la setmana situats a la perifèria de l'anticicló centrat al mar del Nord, amb una mica de mestral i tramuntana i vent de nord al Pirineu, però un temps força encalmat. La notícia del dia serà la pujada de la temperatura diürna.
 
-Aquest diumenge, el centre d'altes pressions s'anirà desplaçant cap al canal de la Mànega, mentre que la pertorbació d'Itàlia tendirà a afeblir-se i retirar-se cap a l'est. Això permetrà que el vent vagi de baixa i que la nevada s'aturi. Malgrat tot, encara estan activats els avisos per vent i onatge del Servei Meteorològic de Catalunya.
+Cel assolellat
 
-Verges(Àngel Galán)
+Ens espera un altre dia dominat pel sol en general, de cel ben blau. A tot estirar, es veuran alguns núvols baixos matinals per l'oest de la Depressió Central i per la costa central, i potser també alguns núvols a sotavent del Pirineu.
 
-Sol i núvols prims
+De fet, la primera part del dia portarà mestral o cerç moderat al Camp de Tarragona i a les Terres de l'Ebre. La tramuntana bufarà amb cops més forts al matí, però no desapareixerà fins al vespre, i també esperem alguns cops moderats durant les primeres hores del dia al Pirineu. Un vent que a banda d'impedir la formació de núvols per la seva baixa humitat, ens permet gaudir d'una visibilitat excel·lent.
 
-Tot i la previsió de menys vent, el matí encara començarà amb cerç o mestral a les Terres de l'Ebre i el Camp de Tarragona, amb tramuntana a l'Empordà i vent de nord als cims del Pirineu. A partir del migdia afluixaran, però no desapareixeran del tot, sobretot la tramuntana. Al final del dia, el mestral es reactivarà una mica. L'avís per vent està vigent fins al migdia.
+Caloreta al migdia
 
-Pel que fa a la nevada, ja ha sigut residual durant la matinada al vessant nord del Pirineu. Durant el matí ja no nevarà i només quedaran alguns núvols residuals. En general, tindrem un dia molt assolellat i amb un cel ben blau i net després de la ventada de dissabte. Arribaran algunes bandes de núvols alts amb el pas de les hores, en moviment de nord a sud, i també es veuran alguns núvols lenticulars.
+La temperatura pujarà clarament aquest dilluns. Ho ha fet la minima, sobretot cap al nord-oest. Les glaçades han quedat concentrades al Pirineu.
 
-Més amplitud tèrmica
+Al migdia, la pujada serà de 3 o 4 ºC en molts casos, i assolirem valors més típics de la primera quinzena de maig. Calculem de 26 a 27 ºC per la Costa Daurada, punts de la Catalunya Central i l'interior de l'Empordà, fins i tot algun valor de 28 ºC per les Terres de l'Ebre. En general, estarem entre 20 i 25 ºC.
 
-La baixada d'intensitat del vent  afavorit una baixada gairebé general de les temperatures mínimes. Han caigut de  baixin 3 a 5 ºC en molts punts del centre i oest de Catalunya, però les glaçades fora del Pirineu han estat febles i molt puntuals. La temperatura ha pujat clarament a l'entorn del Baix Empordà, la Selva i el Pla de l'Estany.
+Evolució de la temperatura per a dilluns a les 14 UTC(WRF / 3Cat)
 
- 
+I dimarts...
 
-Al migdia, la tendència serà la contrària, i la temperatura tendirà a pujar una mica en general. La pujada serà notable en punts del Pirineu i Prepirineu. Els valors més alts arribaran als 23 o 24 ºC per la Costa Daurada, i als 21 o 22 ºC per Ponent, el prelitoral Central, la Catalunya Central i l'interior del nord-est.
-
-I dilluns...
-
-L'anticicló es consolida i la temperatura pujarà 3 o 4 ºC en general. Serà un dia de pura primavera, amb màximes d'entre 24 i 27 ºC en molts punts de Catalunya.
-
- 
+El vent girarà i tindrà més component marítim, de manera que la temperatura diürna baixarà notablement al litoral i prelitoral. A més a més, s'acostarà una bossa d'aire fred pel golf de Lleó, i això portarà un augment de la nuvolositat i ruixats al terç nord, més probables i abundants al Pirineu oriental i cap al vespre. La cota de neu voltarà els 1.500 metres.
 
  
