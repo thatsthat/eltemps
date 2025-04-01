@@ -1,21 +1,20 @@
-Hem començat la setmana situats a la perifèria de l'anticicló centrat al mar del Nord, amb una mica de mestral i tramuntana i vent de nord al Pirineu, però un temps força encalmat. La notícia del dia serà la pujada de la temperatura diürna.
-
-Cel assolellat
-
-Ens espera un altre dia dominat pel sol en general, de cel ben blau. A tot estirar, es veuran alguns núvols baixos matinals per l'oest de la Depressió Central i per la costa central, i potser també alguns núvols a sotavent del Pirineu.
-
-De fet, la primera part del dia portarà mestral o cerç moderat al Camp de Tarragona i a les Terres de l'Ebre. La tramuntana bufarà amb cops més forts al matí, però no desapareixerà fins al vespre, i també esperem alguns cops moderats durant les primeres hores del dia al Pirineu. Un vent que a banda d'impedir la formació de núvols per la seva baixa humitat, ens permet gaudir d'una visibilitat excel·lent.
-
-Caloreta al migdia
-
-La temperatura pujarà clarament aquest dilluns. Ho ha fet la minima, sobretot cap al nord-oest. Les glaçades han quedat concentrades al Pirineu.
-
-Al migdia, la pujada serà de 3 o 4 ºC en molts casos, i assolirem valors més típics de la primera quinzena de maig. Calculem de 26 a 27 ºC per la Costa Daurada, punts de la Catalunya Central i l'interior de l'Empordà, fins i tot algun valor de 28 ºC per les Terres de l'Ebre. En general, estarem entre 20 i 25 ºC.
-
-Evolució de la temperatura per a dilluns a les 14 UTC(WRF / 3Cat)
-
-I dimarts...
-
-El vent girarà i tindrà més component marítim, de manera que la temperatura diürna baixarà notablement al litoral i prelitoral. A més a més, s'acostarà una bossa d'aire fred pel golf de Lleó, i això portarà un augment de la nuvolositat i ruixats al terç nord, més probables i abundants al Pirineu oriental i cap al vespre. La cota de neu voltarà els 1.500 metres.
-
+La dorsal anticiclònica, amb una entrada d'aire càlid, ha fet que comencem la setmana amb un temps ben estable i una temperatura que s'ha disparat aquest dilluns al migdia i tarda. Ara bé, estem a l'espera d'un petit embossament d'aire fred que es despenjarà des del centre del continent europeu i que pot arribar a Catalunya sobretot de cara a dimecres. Això ens portarà un nou canvi de temps, ara per ara no gaire actiu, en forma de més núvols, algunes precipitacions i una baixada del termòmetre.
  
+
+Del sol als núvols
+
+De moment, aquest dimarts ha començat amb un cel radiant arreu del país i es mantindrà així bona part de la primera part del dia. A partir del migdia i sobretot durant la tarda els núvols aniran a més des del mar i penetraran cap al prelitoral, la Catalunya Central i el Pirineu, tot i que les comarques de Ponent, de l'oest de la deperssió Central o del sector occidental del Pirineu se'n mantindran al marge.
+
+Serà durant el vespre, doncs, quan esperem algunes precipitacions a punts de les comarques gironines o del Pirineu més oriental. Seran més aviat febles i poc abundants, amb una cota de neu que estarà situada al voltant dels 1.500 metres. Durant la nit i matinada s'estendran a més comarques.
+
+Arribada de núvols a Vilobí d'Onyar (Roser Cortada)
+
+La temperatura diürna recula clarament
+
+La temperatura de primera hora ha tornat a ser ben suau: hem repetit una nit i matinada de poc fred i on la temperatura sota zero ha desaparegut pràcticament, tret d'alguna raconada pirinenca. En general, ens hem mogut entre els 5 i 12 graus.
+
+Ara bé, la baixada de la temperatura màxima serà contundent, de 6 o 8 graus a la costa prelitoral i nord-est i de 2 a 4 a gran part de la resta del país. Un descens que no es notarà a punts del Pirineu o al pla de Lleida. El vent girarà a component marítim i deixarem enrere els valors tan disparats de primavera avançada registrats aquest dilluns que han portat als termòmetres per damunt dels 25 ºC. Només s'acostaran a aquest valor les comarques de Ponent. A la resta, ens mourem entre els 16 i 21 ºC en conjunt.
+
+I dimecres...
+
+Sembla que serà un dia més aviat rúfol, amb precipitacions que poden ser una mica més generals i un pèl més generoses. Les més importants, al terç oest del país. La cota de neu podrà baixar fins al voltant dels 1.400 metres i la temperatura continuarà en clar descens, sobretot a l'interior i a muntanya. La previsió final dependrà del posicionament de l'embossament d'aire fred en altura.
