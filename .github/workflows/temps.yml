@@ -26,4 +26,4 @@ jobs:
           git pull
           git add .
           git commit -m "generated"
-          git push origin main --force
+          git push
