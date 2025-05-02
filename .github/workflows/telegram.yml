@@ -11,7 +11,7 @@ jobs:
         run: |
           {
             echo 'FILE_CONTENT<<EOF'
-            cat link.txt
+            echo "$(cat link.txt)<<EOF"
             echo EOF
           } >> "$GITHUB_ENV"
       - name: send telegram message on push
