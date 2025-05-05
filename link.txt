@@ -1,27 +1,29 @@
-Aquest diumenge, l'ull de la pertorbació es desplaçarà cap al golf de Lleó, i això portarà un canvi de dinàmica de vents del sud a vents del nord. Entrarà més aire fred per les capes altes, i la baixada de la temperatura també començarà a notar-se en cotes baixes. Continuarà el risc de xàfecs. El Servei Meteorològic de Catalunya ha activat un avís per intensitat de pluja. 
+Aquest dilluns, la pertorbació estarà centrada als Alps. El temps seguirà sent molt inestable perquè, a més, entra un nou solc d'aire fred en altura. Entraran el mestral i la tramuntana, i els xàfecs ens mouran de manera diferent al cap de setmana; ho faran de nord a sud i tornaran a ser localment forts, acompanyats de tempesta, calamarsa o pedra. El Servei Meteorològic de Catalunya ha activat l'avís per intensitat de pluja.
 
-Sant Joan de les Abadesses(Guillermina González)
+Tempestes fortes
 
-Xàfecs i tempestes
+Esperem un dia de cel força ennuvolat, amb núvols més extensos i compactes com més al nord del país. La precipitació matinal es concentrarà al vessant nord del Pirineu, amb una cota de neu inicial d'uns 2.200 metres. No es descarten alguns ruixats puntuals i poc abundants en altres punts del nord-est.
 
-L'aspecte del cel canviarà amb freqüència aquest diumenge, que ha començat força ennuvolat i amb una primera tongada de pluja localment intensa, tindrà estones de clarianes i continuarà amb la dinàmica de nuvolades d'evolució.
+Serà a partir de mig matí i sobretot al migdia quan es reactivaran les tempestes, que cauran amb intensitat i extensió, i deixaran registres abundants en molts casos, sobretot a l'interior de la demarcació de Girona.
+
+Les precipitacions començaran a l'eix del Pirineu i Prepirineu i es desplaçaran cap a la Catalunya Central, el sud de la Costa Brava i l'entorn del litoral i prelitoral central. També podrien arribar, més disperses, al nord del Camp de Tarragona i cap a l'entorn del massís del Port. Al final del dia, la pluja es retirarà per tota la façana litoral, tot i que esperem registres molt poc abundants al sud de la Costa Daurada. La cota de neu baixarà cap als 1.800 metres o cap als 1.400 metres al vessant nord.
+
+Aquest és el càlcul de precipitació que fa el model WRF per al dilluns:
+
+Mapa de pluja prevista en 24 hores per a dilluns (WRF / 3Cat)
+
+Vent i temperatura cap avall en general
+
+Com hem comentat, els vents de component sud, que han portat calor i calitja aquests dies passats, bufaran de component nord en general. tindrem cerç o mestral a les Terres de l'Ebre i en zones del Camp de Tarragona. La tramuntana a l'Empordà s'intensificarà al llarg de la tarda. Al litoral central, el vent serà de component est durant les hores centrals del dia.
+
+Vent previst per a dilluns a les 15.00 UTC(WRF / 3Cat)
+
+Pel que fa a la temperatura, hem començat el dia amb un matí de temperatures de 2 a 4 graus més baixes en general, però venim de molt amunt, i per això les glaçades han estat poques i localitzades a alta muntanya. La temperatura de les hores centrals del dia baixarà de manera clara al terç nord i al prelitoral central, amb una baixada més notable a l'interior del nord-est. En canvi, la temperatura pujarà localment en punts d'interior de les Terres de l'Ebre i la Costa Daurada, a causa del mestral. Els valors més alts es registraran, precisament, en aquest sector i en punts de Ponent, i voltaran els 25 o 26 ºC. A bona part del nord i nord-est, la temperatura quedarà per sota dels 20 ºC.
+
+I dimarts...
+
+Continuarem amb molt d'aire fred en altura, amb mestral, tramuntana i rebuf a la costa central. Serà un altre dia amb possibilitat de xàfecs i tempestes fortes, amb una temperatura que tornarà a davallar i la cota de neu se situarà entre els 1.500 i els 1.700 metres. Continuaran vigents els avisos del Servei Meteorològic de Catalunya per intensitat de pluja.
+
+Mapa de pluja prevista en 24 hores per a dimarts (WRF / 3Cat)
 
  
-
-Bon dia! Tongada de pluja de matinada #Radar @meteocat 📷Podeu seguir el temps actual a la secció "Quin temps fa ara?" al portal d'@eltempsTV3 ➡ https://t.co/x9cQfxOSHX #ElTemps3Cat @jjanue pic.twitter.com/G17Az3BJ8O
- Alberto Alcántara (@alcantara_alb) May 4, 2025
-
-Entre el matí i el migdia, els xàfecs poden afectar de manera dispersa punts d'interior del país, seguint una direcció de sud-oest a nord-est. Es podran registrar nous fenòmens puntualment  intensos i amb tempesta. A la costa, no es pot descartar alguna gotellada fugaç, però seria menys probable en general, tret de l'Alt Empordà, on sí es calcula que pugui arribar alguna tempesta més forta pels volts del migdia.
-
-De cara a la tarda, seguiran generant-se ruixats, principalment en punts d'interior, prelitoral, Prepirineu i Pirineu. Cap al vespre passaran a moure's de nord-oest a sud-est. D'aquesta manera, podrien arribar amb més probabilitat al litoral del nord-est. Tot això dependrà de com vagi avançant l'ull de la pertorbació.
-
-En qualsevol cas, els xàfecs i les tempestes seran localment forts i anar acompanyats de pedra o calamarsa. Localment, alguns registres seran de 15 a 20 mm i, de manera molt més aïllada, se superaran els 30 mm. La cota de neu baixarà fins als 2.400 metres.
-
-Temperatura en descens
-
-La temperatura de primera hora encara han pujat una mica més en una gran part del país, mentre que ha baixat 2 o 3 ºC pel Pirineu. En canvi, al migdia esperem valors inferiors als de dissabte gairebé arreu. No serà una gran davallada general: parlem de baixades de 2 a 4 ºC en punts del terç nord i trams del prelitoral, i de menys graus a la resta. Només cap al Pirineu i nord-est, la temperatura pot baixar més de 5 ºC en alguns casos. Encara registrarem moltes màximes entre els 23 i els 25 ºC i els valors més alts cap a Ponent, on arribaran a uns  28 ºC, però no als 30 ºC, com va passar ahir per primera vegada aquest any. 
- 
-
-I dilluns...
-
-Arriba un nou front, reforçat per un nou solc d'aire fred en altura. Plourà amb més ganes al Pirineu, al Prepirineu i al quadrant nord-est, i arribaran xàfecs més dispersos a altres punts de Catalunya. Baixarà la temperatura, tant la mínima com la màxima. La davallada de la temperatura diürna serà important al nord i nord-est, però el mestral reescalfat farà pujar la temperatura al sud.
