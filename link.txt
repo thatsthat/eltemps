@@ -1,29 +1,24 @@
-Aquest dilluns, la pertorbació estarà centrada als Alps. El temps seguirà sent molt inestable perquè, a més, entra un nou solc d'aire fred en altura. Entraran el mestral i la tramuntana, i els xàfecs ens mouran de manera diferent al cap de setmana; ho faran de nord a sud i tornaran a ser localment forts, acompanyats de tempesta, calamarsa o pedra. El Servei Meteorològic de Catalunya ha activat l'avís per intensitat de pluja.
+Dimarts continuarem sota la influència d'un embossament d'aire fred en alçada. Serà el responsable de mantenir els ruixats i les tempestes a la zona de Catalunya, localment encara intenses i acompanyades de calamarsa o pedra. És per aquest motiu que es mantenen activats els avisos per intensitat de pluja del Servei Meteorològic de Catalunya. La borrasca en superfície, ubicada a la zona dels Alps, afavorirà que encara es mantingui un lleuger flux de vent del nord als extrems del país, que també ajudarà a créixer les nuvolades a causa del rebuf.
 
-Tempestes fortes
+Es repeteixen els xàfecs i les tronades
 
-Esperem un dia de cel força ennuvolat, amb núvols més extensos i compactes com més al nord del país. La precipitació matinal es concentrarà al vessant nord del Pirineu, amb una cota de neu inicial d'uns 2.200 metres. No es descarten alguns ruixats puntuals i poc abundants en altres punts del nord-est.
+Serà un dia de força núvols en general. Uns núvols als quals s'afegiran noves nuvolades convectives que creixeran a partir del migdia. En canvi, tindrem més estones de sol a les comarques del sud de Ponent o de les Terres de l'Ebre, on el vent de mestral n'impedirà la formació.
 
-Serà a partir de mig matí i sobretot al migdia quan es reactivaran les tempestes, que cauran amb intensitat i extensió, i deixaran registres abundants en molts casos, sobretot a l'interior de la demarcació de Girona.
+Pel que fa a la pluja, serà un dia de tenir el paraigua a mà. Ja durant la matinada i el matí hem d'esperar precipitació a la meitat est del país i a punts del litoral i prelitoral. De moment, sense gaire entitat, tot i que ja pot aparèixer alguna tronada. Serà a la tarda quan la pluja guanyi intensitat i extensió. Les tempestes descarregaran amb força al Pirineu i Prepirineu i avançaran cap a la Catalunya Central i fins al prelitoral. Tal com ha passat aquest dilluns, poden acabar arribant a la mateixa línia de la costa central, tot i que potser no d'una manera tan clara.
 
-Les precipitacions començaran a l'eix del Pirineu i Prepirineu i es desplaçaran cap a la Catalunya Central, el sud de la Costa Brava i l'entorn del litoral i prelitoral central. També podrien arribar, més disperses, al nord del Camp de Tarragona i cap a l'entorn del massís del Port. Al final del dia, la pluja es retirarà per tota la façana litoral, tot i que esperem registres molt poc abundants al sud de la Costa Daurada. La cota de neu baixarà cap als 1.800 metres o cap als 1.400 metres al vessant nord.
+La cota de neu baixarà i se situarà entre els 1.500 i 1.700 metres, per la qual cosa a les cotes mitjanes del Pirineu poden canviar d'aspecte amb registres superiors als 20 cm, sobretot al sector oriental de la serralada.
 
-Aquest és el càlcul de precipitació que fa el model WRF per al dilluns:
+Tempesta a Vic (Salut Vilaró)
 
-Mapa de pluja prevista en 24 hores per a dilluns (WRF / 3Cat)
+La temperatura toca fons
 
-Vent i temperatura cap avall en general
+Hme notat una refrescada a primera hora del matí amb valors 3, 4 o 5 graus més baixos respecte a 24 hores enrere en general. Un descens més marcat encara a punts del Pirineu, de la Catalunya Central o de les Terres de l'Ebre. Així doncs, recuperarem els valors negatius que aquests dies havíem perdut a l'alta muntanya i a la resta arrencarem el dia amb xifres per sota dels 10 graus.
 
-Com hem comentat, els vents de component sud, que han portat calor i calitja aquests dies passats, bufaran de component nord en general. tindrem cerç o mestral a les Terres de l'Ebre i en zones del Camp de Tarragona. La tramuntana a l'Empordà s'intensificarà al llarg de la tarda. Al litoral central, el vent serà de component est durant les hores centrals del dia.
+Al migdia, la tendència també serà encara a la baixa, tot i que estarà condicionada per les estones de sol que hi hagi, per si descarrega un ruixat o per la direcció del vent; en el cas de l'Empordà pot pujar una mica. En conjunt, parlarem de màximes entre els 15 i 20 graus, a tot estirar poden arribar als 22 o 23 ºC a punts del pla de Lleida, de les Terres de l'Ebre o de la Costa Daurada, però ja quedaran lluny dels 30 ºC, assolits per primer cop enguany dissabte passat. Als llocs amb xàfecs i amb més nuvolositat poden quedar per sota d'aquests valors.
 
-Vent previst per a dilluns a les 15.00 UTC(WRF / 3Cat)
-
-Pel que fa a la temperatura, hem començat el dia amb un matí de temperatures de 2 a 4 graus més baixes en general, però venim de molt amunt, i per això les glaçades han estat poques i localitzades a alta muntanya. La temperatura de les hores centrals del dia baixarà de manera clara al terç nord i al prelitoral central, amb una baixada més notable a l'interior del nord-est. En canvi, la temperatura pujarà localment en punts d'interior de les Terres de l'Ebre i la Costa Daurada, a causa del mestral. Els valors més alts es registraran, precisament, en aquest sector i en punts de Ponent, i voltaran els 25 o 26 ºC. A bona part del nord i nord-est, la temperatura quedarà per sota dels 20 ºC.
-
-I dimarts...
-
-Continuarem amb molt d'aire fred en altura, amb mestral, tramuntana i rebuf a la costa central. Serà un altre dia amb possibilitat de xàfecs i tempestes fortes, amb una temperatura que tornarà a davallar i la cota de neu se situarà entre els 1.500 i els 1.700 metres. Continuaran vigents els avisos del Servei Meteorològic de Catalunya per intensitat de pluja.
-
-Mapa de pluja prevista en 24 hores per a dimarts (WRF / 3Cat)
-
+Durant la matinada, el vent de mestral a l'Ebre i la tramuntana al nord del Cap de Creus encara es deixaran notar amb algunes ratxes destacables, però tots dos aniran perdent intensitat amb el pas de les hores fins a pràcticament desaparèixer del tot.
  
+
+I dimecres...
+
+Tindrem menys ruixats i concentrats sobretot a la tarda a punts del Pirineu i Preprineu i a les comarques del nord-est i girionines. Puntualment també en altres sectors de muntanya com el massís del Port. La temperatura matinal encara serà semblant, fresca en alguns casos, però de dia el mercuri voldrà recuperar-se.
