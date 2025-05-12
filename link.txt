@@ -1,22 +1,16 @@
-Ens espera un cap de setmana de temps canviant i insegur. Una pertorbació centrada al voltant del Cantàbric, reforçada per una bossa d'aire fred en les capes mitjanes i altes de la troposfera, portarà ruixats i tempestes per continuar la ratxa humida d'aquesta setmana. Els últims mapes, però, rebaixen l'extensió de la pluja prevista per a diumenge.
+L'anticicló atlàntic, situat a mig camí entre el Regne Unit i Islàndia, continuarà afavorint un temps més insegur al sud d'Europa aquest dilluns. La convergència de vents i l'aire fred, encara present per les capes altes de la troposfera, acabaran de perfilar un dia típic de sol matinal i xàfecs de tarda. Bufarà una mica de tramuntana matinal al nord de l'Alt Empordà i de cerç a l'extrem sud.
 
-Nuvolades a Oliana (Jordi Odèn)
+Ruixats de tarda
 
-Dissabte, xàfecs dispersos
-
-El dia ha començat força ennuvolat, amb núvols baixos a la meitat est del país, i arribada de nuvolades per l'oest. Poden caure alguns xàfecs puntuals i dispersos cap al quadrant nord-est i al vessant sud del Pirineu occidental. També és probable que arribi algun xàfec cap al litoral sud. 
-
-De cara a la tarda, esperem un creixement de ruixats al prelitoral, Prepirineu i Pirineu. Seran fenòmens localment intensos, acompanyats de tempesta, amb possibilitat de calamarsa o pedra. S'ha activat un avís per intensitat de pluja. A partir del vespre, arribarà una nova línia de precipitacions per l'oest, des del Pirineu fins als Ports, amb més abundància en comarques com la Noguera, el Pallars Jussà i l'Alta Ribagorça. La cota de neu voltarà els 2.400 metres.
-
-Temperatura en ascens
-
-La temperatura de dissabte tendirà a pujar, tant la mínima com la màxima. A primera hora hem tingut valors entre 1 i 3 ºC més alts que els de divendres, i la màxima pot pujar 3 o 4 ºC en molts indrets de la meitat nord, fins i tot més en alguns punts del Pirineu i Prepirineu. Els valors més alts es registraran a Ponent i a l'interior de l'Empordà, i arribaran a uns 25 ºC, o cap a les Terres de l'Ebre o el prelitoral central, amb uns 24 ºC. En general, els valors se situaran entre els 19 i els 23 ºC.
-
-Tot això, amb vents de component sud-est que deixaran algun cop fort de tarda, sobretot a la part alta de la vall de l'Ebre i al sud de Ponent.
-
-Diumenge, menys pluja de la prevista inicialment
-
-Tindrem la borrasca centrada sobre la Bretanya, i l'aire fred en altura, però els mapes actualitzats han desdibuixat el front que arribarà durant la matinada. En tot cas, entre la mitjanit i primera hora del matí passarà una línia d'inestabilitat que portarà els ruixats més generals. Després, unes hores de pausa amb clarianes, per acabar amb una nova tongada de núvols d'evolució i xàfecs dispersos, que es generaran al llarg del Pirineu, Prepirineu i prelitoral. 
+Com dèiem, esperem un matí de cel assolellat en general, amb alguns núvols residuals al vessant nord del Pirineu i dispersos per la meitat nord del litoral. El sol ajudarà a la formació de nuvolades d'evolució que, a partir del migdia, descarregaran una nova tongada de xàfecs, més probables al llarg i a l'entorn de la serralada prelitoral, del Pirineu i el Prepirineu. Seran localment moderats, potser algun d'intens, i no es descarta que vinguin acompanyats de calamarsa. Els registres més abundants es calculen a l'interior del nord-est. Pot nevar per damunt dels 2.200 metres. El nou episodi de precipitació continuarà la tendència, gairebé ininterrompuda, de dies de pluja d'aquest mes de maig.
  
 
- 
+Temperatura amb pocs canvis
+
+La temperatura es mourà entre els registres normals per a l'època de l'any, molt semblants als de diumenge, amb una lleugera tendència a la baixa de la mínima en punts d'interior, i de la màxima en punts del prelitoral. Localment, la temperatura davallarà en zones del nord-est. Els valors més alts del dia voltaran els 24 o 25 ºC per Ponent, les Terres de l'Ebre i punts de la Costa Daurada.
+
+Temperatura prevista per a dilluns a les 15h UTC (WRF / 3Cat)
+
+I dimarts...
+
+L'aire fred pot retirar-se una mica, però no desapareixerà la dinàmica de xàfecs de tarda, més probables al Pirineu, Prepirineu i massís del Port. La temperatura pujarà.
