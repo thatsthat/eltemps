@@ -1,23 +1,2 @@
- 
-
-Aquest diumenge tindrem un temps més típic de la segona meitat d'agost, amb presència de tronades de tarda, però no grans tempestes com les dels últims dies. El mestral i la tramuntana s'intensificaran i seran més persistents. Això reforçarà el rebuf amb vents humits a bona part del litoral central i alimentarà les nuvolades.
-
-Cel ras a Tivissa (Miquel Escoda)
-
-Del sol als xàfecs de tarda
-
-El matí vindrà marcat per alguns núvols baixos cap al nord de la Vall d'Aran i en punts del litoral central. A la resta, tornarem a tenir un matí assolellat o una mica enteranyinat a estones pel pas de núvols prims que es mouran d'oest a est.
-
-De nou, a partir del migdia serà el torn de les nuvolades d'evolució. En aquest cas, ja serà més probable que derivin en alguns xàfecs dispersos i alguna tempesta moderada per l'interior del quadrant nord-est. Deixaran quantitats poc abundants. D'altra banda, s'anirà tapant al vessant nord del Pirineu, previsiblement amb alguns plugims. 
-
-A la resta de Catalunya es mantindrà més assolellat o amb pinzellades de núvols alts, malgrat que s'anirà tapant pel litoral i prelitoral central al final del dia.
-
-Fins a 35 ºC
-
-La temperatura pujarà un esglaó més en general, tant a primera hora com al migdia. Per on més pujarà serà cap a Ponent i per les Terres de l'Ebre, on esperem valors d'uns 35 o 36 ºC. Per punts d'interior del Camp de Tarragona o el prelitoral central  esperem uns 33 o 34 ºC. En canvi, la temperatura diürna baixarà lleugerament en punts de la Costa Brava. Els termòmetres marcaran valors d'entre 29 i 32 ºC en general.
-
- 
-
-I dilluns...
-
-El vent del nord i nord-oest als dos extrems de Catalunya, i el rebuf a la costa central, determinaran el temps de dilluns. Estarà més ennuvolat al litoral i prelitoral central i al vessant nord del Pirineu. En aquests sectors es registraran algunes precipitacions al llarg del dia, en general poc abundants. A la resta, cel més assolellat.
+El mestral i la tramuntana es reforçaran als dos extrems de Catalunya, i amb ells també ho farà el rebuf, el flux de vents humits a una bona part del litoral. Aquest patró de vents determinarà el temps de dilluns, mig ennuvolat i amb alguns ruixats. El Servei Meteorològic de Catalunya ha activat l'avís per intensitat de pluja per a les franges nocturnes.Més ventCom diem, el vent guanyarà força: el cerç o mestral a les Terres de l'Ebre i al sud del Camp de Tarragona, i la tramuntana a l'Empordà. Deixaran cops forts, puntualment molt forts. Entre els dos extrems del litoral, es reforçarà el vent del sud o sud-est.WRF/3CatMés núvols cap a l'estDurant el matí, estarà ennuvolat al vessant nord del Pirineu i al quadrant nord-est, fins a la Costa Central. En aquest tram del dia pot plovisquejar al Pirineu, i també poden caure alguns ruixats dispersos al voltant del litoral i prelitoral central i nord de la Costa Daurada. Seran més probables entre el sud del Maresme i el Garraf. A la resta de Catalunya farà sol o es veuran alguns núvols prims dispersos.A la tarda, es mantindrà la nuvolositat al Pirineu, tot i que s'anirà esqueixant i deixarà de plovisquejar. Però, d'altra banda, creixeran nuvolades d'evolució pel Prepirineu i el nord-est. Els xàfecs puntuals es poden desenvolupar al voltant del prelitoral nord i afectaran, de manera dispersa, punts del nord-est, principalment el Maresme, el Vallès Oriental o Osona. A la resta del país, continuarà assolellat en general. Cap al vespre, els xàfecs, sempre força dispersos, poden allargar-se fins al Berguedà o el Solsonès i el nord del Bages. També, cap al vespre, s'esperen xàfecs pel Camp de Tarragona, entre el Tarragonès i el Baix Penedès, potser a l'Alt Camp i al Baix Camp. De matinada, els xàfecs aniran a parar al litoral central. En aquest cas, poden ser localment intensos. Canícula a mig gasDurant tota la setmana tindrem temperatures per sota de la mitjana climàtica per a l'època de l'any, que és la més calorosa normalment. Hem tingut valors lleugerament més baixos a primera hora en punts del Pirineu, però les mínimes han pujat a causa dels núvol i el vent.    #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
+Les màximes pujaran localment pel vent reescalfat a l'extrem sud de la Costa Daurada i en punts de la Costa Brava. En canvi, baixaran 3 o 4 ºC al Pirineu i, fins i tot més, en punts del prelitoral central i nord de la Costa Daurada. Els valors més alts es registraran a Ponent i a l'interior de les Terres de l'Ebre, i arribaran a uns 34 ºC. Però en una gran part del país tindrem valors d'entre 25 i 31 ºC. I dimarts...El vent no desapareixerà, però anirà de baixa.  Farà més sol en general durant el matí, però encara tindrem núvols de matinada a la façana litoral i al vessant nord del Pirineu, i també creixeran nuvolades de tarda. Tot plegat, amb possibilitat d'alguns xàfecs dispersos, però localment intensos, al litoral central durant la primera part del dia, i al quadrant nord-est durant la segona.
