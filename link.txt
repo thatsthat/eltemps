@@ -1,4 +1,29 @@
-El temps continuarà sense grans canvis aquest dimarts, però sí amb petites novetats: el mestral i la tramuntana perdran pistonada durant unes hores, mentre que entrarà aire lleugerament més fred per les capes altes atmosfèriques. La temperatura estarà, un dia més, per sota de l'habitual per aquesta època de l'any.Menys mestralCom diem, el cerç o mestral anirà de baixa a partir de mig matí. La tramuntana bufarà amb més força durant el matí, i s'anirà concentrant al Cap de Creus durant la tarda. Predominarà el vent de sud a bona part de litoral, amb alguns cops moderats.Més sol, però encara amb possibilitat de ruixatsDurant la matinada encara hem tingut alguns xàfecs, en retirada des de la Catalunya Central cap a sectors del litoral central, amb registres molt minsos en general. La quantitat més destacada ha estat a Mataró (6 mm). El matí serà de cel assolellat gairebé arreu. Estarà mig ennuvolat al vessant nord del Pirineu per núvols baixos. D'altra banda, la possibilitat de ruixats es mantindrà a l'inici del matí entre el Baix Llobregat, el Barcelonès i el Maresme. No es pot descartar algun xàfec puntualment intens, però el més probable és que descarreguin sobre el mar i no toquin terra. Durant la tarda, el sol es mantindrà gairebé a tot el país, tret del vessant nord del Pirineu, on continuarà ennuvolat per núvols baixos, i el quadrant nord-est, on creixeran nuvolades d'evolució. Són possibles algunes gotellades per l'interior del nord-est, sobretot pels volts del Montseny i al Pirineu oriental. Potser després del vespre creix algun xàfec més moderat, cap a la Garrotxa, el Ripollès o el nord del Berguedà. Seria el tret de sortida per a una nova fase de xàfecs dispersos de matinada, que tornarien a localitzar-se entre el Baix Llobregat i el Maresme, i també en alguns punts d'interior del nord-est, com el Vallès Oriental. En conjunt deixaran quantitats molt poc abundants, però pot caure algun patac d'aigua. Està activat l'avís del Servei Meteorològic de Catalunya (SMC) per intensitat de pluja, tot i que amb un grau de perill de 2 sobre 6.Calor molt moderadaLa temperatura de primera hora ha estat més baixa en general, de manera més visible en el sector del Ripollès, la Garrotxa, Osona, el Pla de l'Estany o la Selva, amb baixades de fins a 8 ºC.  #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
-La temperatura màxima es recuperarà lleugerament pel Pirineu, l'Empordà i punts del Camp de Tarragona i del litoral i prelitoral central. Tindrem uns valors de canícula de rebaixes, sense passar dels 32  o 33 ºC en punts de Ponent o les Terres de l'Ebre.  En general ens mourem entre 26 i 30 ºC. I dimecres...Es repetirà la dinàmica del temps: després d'una matinada de xàfecs, potser també a l'inici del matí pel litoral central, tindrem hores de treva fins al creixement de nuvolades de tarda, amb alguns xàfecs dispersos pel nord-est. La temperatura pujarà lleugerament, però seguirem en valors atípics per la canícula. 
+Continuem avançant per aquesta atípica setmana de juliol, de calor sostinguda i ruixats a destemps, amb un temps força semblant al de les últimes hores, és a dir, amb una barreja de sol i nuvolades, més presents al nord-est. Tampoc no canviarà gaire el patró de vent, amb més presència de cerç o mestral fins a mig matí, tramuntana més persistent al nord del cap de Creus i vent de sud dominant a la resta del litoral.  
+
+Xàfec a Cànoves i Samalús (Manuel Sánchez)
+
+Sol i xàfecs dispersos
+
+Una bona part del país continuarà amb un cel assolellat o molt poc ennuvolat durant tot el dia: les Terres de l'Ebre, tret de la cella matinal als Ports, les terres de Ponent, gran part del Camp de Tarragona o la Catalunya Central.
+
+En canvi, continuarà ennuvolat o mig ennuvolat a estones al vessant nord del Pirineu i el quadrant nord-est, tant a l'interior com al litoral, entre el Garraf i l'Empordà. No es descarten xàfecs molt intermitents i dispersos, minsos, que poden esquitxar durant el matí pels volts del litoral o prelitoral central. 
+
+A la tarda, també creixeran nuvolades al quadrant nord-est, amb possibilitat de més xàfecs cap a zones més interiors, com el Berguedà, el Ripollès, Osona o el Solsonès. Insistim sempre que tindran poca energia, duraran poc i deixaran poca aigua.  
 
  
+
+ 
+
+Màximes de fins a 34 ºC
+
+A primera hora es registraven valors semblants als de dimarts en general, tot i que la nuvolositat nocturna ha fet que siguin clarament més alts en punts del nord-est.
+
+ 
+
+ 
+
+Al migdia, la temperatura es mantindrà o tendirà a recuperar-se una mica en general, però ens mantindrem en uns valors molt continguts, que no passaran de 33 o 34 ºC en els indrets més calorosos, com l'interior de les Terres de l'Ebre. En molts casos, estarem entre 29 i 32 ºC. 
+
+I dijous...
+
+Pocs canvis, barreja entre el sol i núvols costaners, i també núvols de tarda amb possibilitat d'alguns xàfecs amb poca aigua. La temperatura pujarà una mica més. 
