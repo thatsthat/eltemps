@@ -1,4 +1,24 @@
-Encetem el tram final de la setmana amb una calor que encara pot aguantar un parell de dies sense desbocar-se, i amb uns xàfecs de tarda que poden anar a més. Cel variableQuatre elements intervindran demà en l'estat del cel. El primer serà el sol, el més present a una gran part del país durant tot el dia. El segon seran els núvols baixos o boires, que apareixeran durant el matí en punts del sud de la Costa Daurada i també per la Costa Brava. S'aniran desfent amb el pas de les hores. El tercer element seran els núvols prims, que circularan i deixaran el cel mig enteranyinat a estones. L'últim element seran els núvols d'evolució, que es desenvoluparan a partir del migdia al Pirineu. En aquest cas, s'esperen alguns xàfecs molt dispersos entre l'Alt Pirineu i el nord de la Cerdanya o el Ripollès, sempre amb quantitats molt poc abundants de precipitació. Temperatura sense canvis importantsLa temperatura de primera hora ha sigut lleugerament superior a la de dijous en general, i un pèl més baixa alguns en punts del litoral i prelitoral sud i central.  La màxima serà semblant a la de dijous. En alguns casos pujarà, però molt poc, de manera que no s'haurien de superar els llindars de perill per activar els avisos per calor. De nou, es calculen uns 38 ºC per a Ponent, potser 39 ºC, uns 37 ºC cap a la Conca de Tremp i fins a 36 ºC en punts de la Catalunya Central.  #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
-I el cap de setmana...De moment, els mapes renovats van retardant la part més dura de la calorada prevista. El cap de setmana començarà amb un dissabte amb nous xàfecs de tarda, més probables al Pirineu, i amb una temperatura que pot baixar una mica. Diumenge, la situació serà semblant. El repunt més acusat de la temperatura arribaria a partir de dilluns.   
+El temps aquest dissabte es debatrà entre la calor intensa, i els xàfecs de tarda. Tindrem predomini del vent del sud en la superfície, però per les capes altes domina el vent de component nord i tindrem una mica d'aire fred que pot ajudar al creixement d'algunes tempestes, les típiques de l'estiu al Pirineu. La temperatura diürna està al límit per fer saltar els avisos per calor del Servei Meteorològic de Catalunya. Ara per ara, estan activats per a diverses comarques de l'oest.
+
+Dissabte de sol i xàfecs de tarda
+
+El cel del matí es veurà entre assolellat i enterbolit per núvols prims. En punts del sud de la Costa Daurada s'acumularan alguns núvols baixos. També apareixeran alguns núvols baixos o boires en punts de la Costa Brava, al nord del cap de Creus i al sud del golf de Roses.
+
+Durant la tarda, els núvols alts aniran a menys, mentre que creixeran núvols d'evolució al Pirineu i Prepirineu. S'esperen alguns xàfecs dispersos, amb alguna tempesta, més probables entre l'Alt Pirineu, Prepirineu Lleidetà i la Cerdanya. A partir del vespre poden arribar les escorrialles al nord de la Catalunya Central o de les Terres de Ponent. 
+
+Fins a 40 ºC
+
+La temperatura pot escalar un grau més, i estarem en els límits d'activació dels avisos per calor intensa. Alguns models ja ens indiquen màximes de 40 ºC per Ponent, de fins a 36 ºC a les Terres de l'Ebre, a la Catalunya Central i cap al Gironès i el Pla de l'Estany. Tot plegat amb un vent de sud que pot deixar algun cop fort de tarda al sud de Ponent. Els avisos, de nivell baix, estan activats a l'oest de les Terres de Ponent i de l'Alt Pirineu, a més de la Vall d'Aran.
+ 
+
+ 
+
+Diumenge, pocs canvis
+
+Per a l'últim dia de la setmana s'espera un temps similar al de dissabte: sol en general, amb alguns núvols baixos al sud de la Costa Daurada i nuvolades de tarda al Pirineu, on podran descarregar xàfecs o tempestes, sobretot a l'oest, amb possibilitat que arribin al nord de la Catalunya Central. Les temperatures es mantindran altes: fins a 40 ºC a Ponent, on continua l'avís per calor, i entre 36 i 38 ºC a l'est de la Catalunya Central i a les Terres de l'Ebre, i per l'interior del nord-est uns 36 o 37 ºC. A les zones amb ruixats, la temperatura podrà baixar lleugerament. Es preveu que el pic de calor arribi la setmana vinent.
+
+ 
+
+ 
 
  
