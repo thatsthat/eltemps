@@ -1,6 +1,33 @@
-Aquest diumenge, l'entrada de vents de nord i nord-oest farà que la temperatura repunti encara més als dos extrems de Catalunya. En general, es mantindrà o pujarà un grau la calor extrema de dissabte. La bona notícia és que s'albira un canvi de tendència a mitjà termini.Sortida del sol a Sant Fruitós de Bages (Josep Hernández)Calor desbocadaLa nit i la matinada ha tornat a ser de mal dormir, principalment en trams de la façana litoral: la Costa Daurada, l'Alt Empordà i els volts del Barcelonès, el Baix Llobregat i el Maresme.    #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
-El pic màxim de la segona onada de calor farà que es puguin assolir nous rècords. Hi ha activats els avisos de calor intensa de grau màxim (6/6) del Servei Meteorològic de Catalunya als dos extrems, a l'Empordà i l'Ebre, a l'est del Camp de Tarragona i al sud del litoral i prelitoral central. Les màximes més altes poden arribar als 43 °C a l'interior de les Terres de l'Ebre, probablement amb algun pic de 44 ºC. Però a més a més estarem sobre els 43 ºC a Ponent, i per sobre dels 40 °C del litoral i prelitoral sud, al prelitoral central, a l'Empordà, a la Catalunya Central i a Ponent.  
+Per fi podem parlar d'un canvi de temps i trencar el discurs d'una calor sobredimensionada. A partir d'aquest dilluns, entren a escena les tempestes i la temperatura començarà a normalitzar-se de manera progressiva. De moment, però, encara hi haurà algunes comarques amb avisos per calor nocturna i diürna. Res a veure, però, amb els avisos extensos i de màxim nivell de diumenge. 
 
- VentEl vent incidirà directament en les mínimes i màximes de diumenge. Bufarà una mica de cerç o mestral a les Terres de l'Ebre i punts del sud del Camp de Tarragona, fins al migdia. La tramuntana serà més forta, com el vent de nord als cims del Pirineu, sobretot entre mig matí i mitja tarda. Serà un dia per extremar les precaucions pel que fa al perill d'incendi. Mapes de vent previstos per a diumenge (9+ 12+ 15+18 UTC)�� Més mapes a la secció "Previsió" del portal d'@eltempsTV3 ➡ https://t.co/thQo0ypfh0 #ElTemps3Cat pic.twitter.com/erFvziM3nL— Alberto Alcántara (@alcantara_alb) August 16, 2025Sol i núvols de tardaEl dia tornarà a ser força assolellat, sobretot al matí. A la tarda, creixeran núvols de calor al Prepirineu i, cap al vespre, n'arribaran també des de l'Aragó a punts de l'oest i el sud de Catalunya. El cel acabarà mig ennuvolat.I la setmana vinent...La bona notícia és que, a partir de dilluns, la temperatura comença a baixar de manera progressiva. Serà sobretot entre dimarts i dimecres quan es notarà la baixada, que anirà acompanyada també de ruixats. Les tempestes començaran ja aquest dilluns, i podran ser localment fortes. Afectaran el nord i l'oest de Catalunya. 
+Arriben tempestes
 
-  #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
+Veurem un dia més variable des del matí, per l'arribada d'alguns núvols alts i mitjans. Però serà a partir del migdia quan creixeran nuvolades més potents al Pirineu i Prepirineu, i també n'arribaran des de l'Aragó cap a la zona de Ponent i les Terres de l'Ebre. Cel serè o poc ennuvolat amb el creixement de nuvolades a la tarda al Pirineu i Prepirineu, sobretot al sector occidental, i al massís dels Ports. Al llarg de la tarda n'arribaran també pel terç oest.
+
+Per tant, a primera hora de la tarda descarregaran els primers xàfecs pel Pirineu. Amb el pas de les hores s'estendran per altres punts d'interior del terç nord. Seran localment intensos, acompanyats de tempesta, i deixaran registres puntualment abundants, amb alguna calamarsada. El Servei Meteorològic de Catalunya ha activat un avís per intensitat de pluja. Com diem, també entrarà algun xàfec puntualment intens per Ponent i a l'entorn dels Ports. 
+
+La calor comença a desinflar-se
+
+Pel que fa a la temperatura, començarà a baixar en el nivell de 850 hPa. Passarem d'isotermes de 24-26 ºC a valors de 18-24 ºC. Pel que fa a la superfície, diferenciarem l'evolució de les mínimes i les màximes. 
+
+A primera hora podrem tenir, encara, valors més alts que diumenge en punts de Ponent o les Terres de l'Ebre. Per això es manté un avís per calor nocturna. En canvi, esperem valors més baixos en bona part de la façana litoral i prelitoral. 
+
+ 
+
+Al migdia, es registraran màximes més baixes en general. La baixada serà més notable a la meitat est de Catalunya i, sobretot, a la Costa Daurada i en punts de la Costa Brava. En canvi, encara es mantindran valors força alts per Ponent o l'interior de les Terres de l'Ebre, on poden quedar valors de 38 o 39 ºC. A la resta del país baixarem cap als 32-35 ºC. Temperatures per sobre de la mitjana, però ja sense els valors rècord del cap de setmana. 
+
+ 
+
+ 
+
+Tramuntana i sud-est
+
+També resistirà la tramuntana matinal al cap de Creus, però al migdia desapareixerà. El vent dominant durant les hores centrals del dia serà de sud-est, i deixarà algun cop fort al prelitoral sud i a Ponent. Cap al vespre, entrarà vent de ponent  pel terç oest de Catalunya, i tindrem ventades locals degut a les tempestes.
+
+I dimarts...
+
+Entrarà més aire fred en altura, i baixarà més, de manera general, tant a primera hora com al migdia. Veurem més núvols arreu i tornarem a tenir tempestes localment fortes.  
+
+ 
+
+ 
