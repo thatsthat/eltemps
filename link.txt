@@ -1,4 +1,23 @@
-Aquest dijous s'acabarà de concretar el canvi de temps en dues fases. Entrarà el solc d'aire fred per les capes altes, mentre que els vents passaran a ser del nord i nord-oest, amb rebuf a la costa central. S'esperen cops forts als dos extrems del país. La inestabilitat s'anirà focalitzant sobre el terç nord i la façana litoral. Tempesta matinal a Calella (Tino Valduvieco)Pluja intensa i abundantCom diem, tindrem dues zones principals on es focalitzarà la inestabilitat. D'una banda, les comarques del nord-oest de Catalunya, sobretot a la zona de l'Aran i l'Alt Pirineu, on els xàfecs seran més freqüents fins al migdia. Al matí també podran caure alguns xàfecs, molt més dispersos, per altres punts del centre i nord-est. Per altra banda, també al llarg del matí, es desenvoluparan tempestes que tocaran punts del litoral, previsiblement entre la Costa Daurada i la Central. Amb el pas de les hores s'aniran estenent cap al prelitoral i litoral nord i altres punts de l'interior del nord-est. D'altra banda, a partir del migdia creixeran noves nuvolades al Pirineu, Prepirineu, sobretot a l'oriental, i altres punts d'interior del nord-est. Finalment, el dia pot acabar amb tronades de nou cap al sector sud de la Costa Central i nord de la Costa Daurada. En aquest cas, seran més puntuals. Cal tenir en compte que les tempestes seran localment fortes i vindran acompanyades de ventades i calamarsa. Amb menys probabilitat, es poden donar registres puntuals molt abundants en punts del litoral i prelitoral. És per aquest motiu que el Servei Meteorològic de Catalunya ha activat avisos per intensitat i acumulació de pluja de més de 100 mm en 24 hores. En aquest cas, però, amb un grau baix de probabilitat (1 sobre 6). Davallada tèrmicaLa temperatura de primera hora ha baixat arreu, tret de punts de les Terres de l'Ebre. La baixada ha estat més notable cap a l'Aran.   Al migdia, la davallada serà notable a gairebé tot el país. La temperatura màxima baixarà de forma notable en general, tret de punts de la Costa Daurada, on bufarà el vent reescalfat. Poden resistir alguns valors lleugerament per sobre dels 30 ºC en punts del litoral sud, o per Ponent. Molts indrets de Catalunya quedaran entre els 23 i els 29 ºC.  #mapa_refixed {height:800px}@media (max-width: 767px){#mapa_refixed {height:550px;}}
-I divendres...Començarà amb un matí força més fresc arreu. El temps no acabarà de fer net, i encara s'esperen alguns xàfecs matinals a la meitat nord de la façana litoral, mentre que a la tarda els xàfecs es localitzaran al Pirineu i l'interior del nord-est.  
+Aquest divendres recuperarem una certa calma meteorològica, perquè el solc d'aire fred s'anirà retirant. Arribarà la cua d'un petit front, però la inestabilitat quedarà molt localitzada al terç nord. 
+
+Més sol i menys xàfecs
+
+Tot i la tendència a les clarianes, cal matisar que no veurem un cel assolellat del tot d'inici. De fet, durant la matinada i fins a l'inici del matí, tindrem nuvolades, amb possibilitat d'alguns xàfecs, en punts del litoral i prelitoral central i sud de la Costa Brava. A banda, també passaran bandes de núvols alts, en moviment d'oest a est. 
+
+La tarda serà més assolellada cap a Ponent, a les Terres de l'Ebre i el Camp de Tarragona. En canvi, a partir del migdia, es reactivaran els ruixats i algunes tempestes pel Pirineu, Prepirineu i el nord-est. Els xàfecs acabaran arribant a la Costa Brava entre mitja tarda i el vespre. També pot arribar algun xàfec dispers cap al Vallès Oriental i el Maresme. Tindrem fenòmens d'intensitat moderada, amb registres de pluja poc abundants.  
+
+Fresca matinal
+
+El dia començarà amb valors més frescos arreu, i amb baixades de 3 o 4 graus en molts casos. Al migdia, la temperatura pujarà, a causa dels vents de ponent i garbí, cap al litoral i prelitoral central i nord. Tindrem una calor continguda, amb màximes de 31 o 32 ºC en punts de l'est de les Terres de l'Ebre i del prelitoral Central. En conjunt, màximes entre 23 i 28 ºC.
+
+ 
+
+ 
+
+I el cap de setmana...
+
+Tot indica que tindrem un dissabte amb força sol i amb temperatures més altes en general, i un diumenge amb un nou canvi de temps, que arribaria a la tarda o vespre pel nord-oest de Catalunya.
+
+ 
 
  
